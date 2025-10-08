@@ -1,0 +1,93 @@
+name: backend-deploy
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - "get_cafes/**"
+      - "upsert_cafes/**"
+      - ".github/workflows/backend-deploy.yml"
+  workflow_dispatch:
+    inputs:
+      target_env:
+        description: "Deploy environment override (dev/stg/prd). Leave blank for all."
+        required: false
+        default: ""
+
+jobs:
+  deploy:
+    if: github.event_name != 'workflow_dispatch' || github.event.inputs.target_env == '' || matrix.env == github.event.inputs.target_env
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
+    strategy:
+      matrix:
+        env: [dev, stg, prd]
+        function:
+          - name: get_cafes
+            code_dir: get_cafes
+            func_suffix: api-get-cafes
+          - name: upsert_cafes
+            code_dir: upsert_cafes
+            func_suffix: api-upsert-cafes
+      fail-fast: false
+    env:
+      AWS_REGION: ${{ vars.AWS_REGION || 'ap-northeast-1' }}
+      PRODUCT: ${{ vars.PRODUCT }} # 例: concafe-map
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify required variables
+        run: |
+          if [ -z "${PRODUCT:-}" ]; then
+            echo "vars.PRODUCT is required (例: concafe-map)" >&2
+            exit 1
+          fi
+
+      - name: Build package
+        run: |
+          TARGET_DIR=${{ matrix.function.code_dir }}
+          BUILD_ROOT=.build/${TARGET_DIR}
+          ZIP_PATH=.build/${TARGET_DIR}.zip
+          rm -rf "$BUILD_ROOT" "$ZIP_PATH"
+          mkdir -p "$BUILD_ROOT"
+          if [ -f "$TARGET_DIR/requirements.txt" ]; then
+            pip install -r "$TARGET_DIR/requirements.txt" -t "$BUILD_ROOT"
+          fi
+          rsync -a --exclude '__pycache__' "$TARGET_DIR/" "$BUILD_ROOT/"
+          (cd "$BUILD_ROOT" && zip -r "../${TARGET_DIR}.zip" .)
+          echo "ZIP_PATH=$ZIP_PATH" >> "$GITHUB_ENV"
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ secrets['AWS_ROLE_ARN_' + toUpper(matrix.env)] }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Upload artifact to S3
+        run: |
+          ARTIFACT_BUCKET=${{ secrets['ARTIFACT_BUCKET_' + toUpper(matrix.env)] }}
+          if [ -z "$ARTIFACT_BUCKET" ]; then
+            echo "Artifact bucket secret is not configured for env ${{ matrix.env }}" >&2
+            exit 1
+          fi
+          KEY=lambda/${{ env.PRODUCT }}/${{ matrix.function.func_suffix }}/${{ matrix.env }}/${{ github.sha }}.zip
+          aws s3 cp "$ZIP_PATH" "s3://$ARTIFACT_BUCKET/$KEY"
+          {
+            echo "ARTIFACT_BUCKET=$ARTIFACT_BUCKET"
+            echo "ARTIFACT_KEY=$KEY"
+            echo "FUNCTION_NAME=${{ env.PRODUCT }}-${{ matrix.function.func_suffix }}-${{ matrix.env }}"
+          } >> "$GITHUB_ENV"
+
+      - name: Update Lambda → Publish → Alias switch
+        run: |
+          FUNC="${FUNCTION_NAME}"
+          aws lambda update-function-code --function-name "$FUNC" --s3-bucket "$ARTIFACT_BUCKET" --s3-key "$ARTIFACT_KEY"
+          VER=$(aws lambda publish-version --function-name "$FUNC" --query Version --output text)
+          aws lambda update-alias --function-name "$FUNC" --name live --function-version "$VER"
