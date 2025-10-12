@@ -17,17 +17,18 @@ jobs:
         env:
           - name: dev
             upper: DEV
-          - name: stg
-            upper: STG
-          - name: prd
-            upper: PRD
+          # TODO: Enable stg/prd when release branches are ready.
+          # - name: stg
+          #   upper: STG
+          # - name: prd
+          #   upper: PRD
         function:
           - name: get_cafes
             code_dir: get_cafes
-            func_suffix: api-get-cafes
+            func_suffix: get-cafes
           - name: upsert_cafes
             code_dir: upsert_cafes
-            func_suffix: api-upsert-cafes
+            func_suffix: upsert-cafes
       fail-fast: false
     environment: ${{ matrix.env.name }}
     env:
@@ -94,3 +95,4 @@ jobs:
           aws_role_arn: ${{ secrets[format('AWS_ROLE_ARN_{0}', matrix.env.upper)] }}
           artifact_bucket: ${{ secrets[format('ARTIFACT_BUCKET_{0}', matrix.env.upper)] }}
           python_version: "3.12"
+          function_name: ${{ format('%s-%s', env.PRODUCT, matrix.function.func_suffix) }}

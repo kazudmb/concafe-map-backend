@@ -27,6 +27,10 @@ inputs:
     description: Python version for the build environment.
     required: false
     default: "3.12"
+  function_name:
+    description: Override for the full Lambda function name.
+    required: false
+    default: ""
 
 runs:
   using: "composite"
@@ -92,6 +96,7 @@ runs:
         FUNC_SUFFIX: ${{ inputs.func_suffix }}
         ENV_NAME: ${{ inputs.env_name }}
         ZIP_PATH: .build/${{ inputs.code_dir }}.zip
+        FUNCTION_NAME_INPUT: ${{ inputs.function_name }}
       run: |
         set -euo pipefail
         if [ -z "$ARTIFACT_BUCKET" ]; then
@@ -103,11 +108,16 @@ runs:
           exit 1
         fi
         KEY="lambda/${PRODUCT}/${FUNC_SUFFIX}/${ENV_NAME}/${GITHUB_SHA}.zip"
+        if [ -n "$FUNCTION_NAME_INPUT" ]; then
+          FUNC_NAME="$FUNCTION_NAME_INPUT"
+        else
+          FUNC_NAME="${PRODUCT}-${FUNC_SUFFIX}-${ENV_NAME}"
+        fi
         aws s3 cp "$ZIP_PATH" "s3://$ARTIFACT_BUCKET/$KEY"
         {
           echo "ARTIFACT_BUCKET=$ARTIFACT_BUCKET"
           echo "ARTIFACT_KEY=$KEY"
-          echo "FUNCTION_NAME=${PRODUCT}-${FUNC_SUFFIX}-${ENV_NAME}"
+          echo "FUNCTION_NAME=$FUNC_NAME"
         } >> "$GITHUB_ENV"
 
     - name: Update Lambda → Publish → Alias switch
