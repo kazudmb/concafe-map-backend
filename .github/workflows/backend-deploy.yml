@@ -1,29 +1,26 @@
 name: backend-deploy
 
 on:
-  push:
-    branches: [ main ]
-    paths:
-      - "get_cafes/**"
-      - "upsert_cafes/**"
-      - ".github/workflows/backend-deploy.yml"
   workflow_dispatch:
-    inputs:
-      target_env:
-        description: "Deploy environment override (dev/stg/prd). Leave blank for all."
-        required: false
-        default: ""
+  push:
+    # TODO: Enable stg/prd when release branches are ready.
+    branches: [ main ]
 
 jobs:
   deploy:
-    if: github.event_name != 'workflow_dispatch' || github.event.inputs.target_env == '' || matrix.env == github.event.inputs.target_env
     runs-on: ubuntu-latest
     permissions:
       id-token: write
       contents: read
     strategy:
       matrix:
-        env: [dev, stg, prd]
+        env:
+          - name: dev
+            upper: DEV
+          - name: stg
+            upper: STG
+          - name: prd
+            upper: PRD
         function:
           - name: get_cafes
             code_dir: get_cafes
@@ -31,70 +28,64 @@ jobs:
           - name: upsert_cafes
             code_dir: upsert_cafes
             func_suffix: api-upsert-cafes
-        include:
-          - env: dev
-            env_upper: DEV
-          - env: stg
-            env_upper: STG
-          - env: prd
-            env_upper: PRD
       fail-fast: false
     env:
       AWS_REGION: ${{ vars.AWS_REGION || 'ap-northeast-1' }}
       PRODUCT: ${{ vars.PRODUCT }} # 例: concafe-map
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Detect branch env
+        id: detect_env
+        env:
+          REF_NAME: ${{ github.ref_name }}
+        run: |
+          case "${REF_NAME}" in
+            main) echo "branch_env=dev" >> "$GITHUB_OUTPUT" ;;
+            stg) echo "branch_env=stg" >> "$GITHUB_OUTPUT" ;;
+            prd) echo "branch_env=prd" >> "$GITHUB_OUTPUT" ;;
+            *)
+              echo "branch_env=" >> "$GITHUB_OUTPUT"
+              ;;
+          esac
 
-      - uses: actions/setup-python@v5
+      - name: Filter target env
+        id: filter
+        env:
+          TARGET_ENV: ${{ github.event.inputs.target_env || '' }}
+          BRANCH_ENV: ${{ steps.detect_env.outputs.branch_env || '' }}
+          MATRIX_ENV: ${{ matrix.env.name }}
+          EVENT_NAME: ${{ github.event_name }}
+          PR_MERGED: ${{ github.event.pull_request.merged || false }}
+        run: |
+          if [ "${EVENT_NAME}" = "pull_request" ] && [ "${PR_MERGED}" != "true" ]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          if [ -n "$TARGET_ENV" ]; then
+            if [ "$TARGET_ENV" = "$MATRIX_ENV" ]; then
+              echo "run=true" >> "$GITHUB_OUTPUT"
+            else
+              echo "run=false" >> "$GITHUB_OUTPUT"
+            fi
+          elif [ -n "$BRANCH_ENV" ]; then
+            if [ "$BRANCH_ENV" = "$MATRIX_ENV" ]; then
+              echo "run=true" >> "$GITHUB_OUTPUT"
+            else
+              echo "run=false" >> "$GITHUB_OUTPUT"
+            fi
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Deploy backend Lambda
+        if: steps.filter.outputs.run == 'true'
+        uses: ./.github/actions/deploy-backend
         with:
-          python-version: "3.12"
-
-      - name: Verify required variables
-        run: |
-          if [ -z "${PRODUCT:-}" ]; then
-            echo "vars.PRODUCT is required (例: concafe-map)" >&2
-            exit 1
-          fi
-
-      - name: Build package
-        run: |
-          TARGET_DIR=${{ matrix.function.code_dir }}
-          BUILD_ROOT=.build/${TARGET_DIR}
-          ZIP_PATH=.build/${TARGET_DIR}.zip
-          rm -rf "$BUILD_ROOT" "$ZIP_PATH"
-          mkdir -p "$BUILD_ROOT"
-          if [ -f "$TARGET_DIR/requirements.txt" ]; then
-            pip install -r "$TARGET_DIR/requirements.txt" -t "$BUILD_ROOT"
-          fi
-          rsync -a --exclude '__pycache__' "$TARGET_DIR/" "$BUILD_ROOT/"
-          (cd "$BUILD_ROOT" && zip -r "../${TARGET_DIR}.zip" .)
-          echo "ZIP_PATH=$ZIP_PATH" >> "$GITHUB_ENV"
-
-      - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@v4
-        with:
-          role-to-assume: ${{ secrets[format('AWS_ROLE_ARN_{0}', matrix.env_upper)] }}
-          aws-region: ${{ env.AWS_REGION }}
-
-      - name: Upload artifact to S3
-        run: |
-          ARTIFACT_BUCKET=${{ secrets[format('ARTIFACT_BUCKET_{0}', matrix.env_upper)] }}
-          if [ -z "$ARTIFACT_BUCKET" ]; then
-            echo "Artifact bucket secret is not configured for env ${{ matrix.env }}" >&2
-            exit 1
-          fi
-          KEY=lambda/${{ env.PRODUCT }}/${{ matrix.function.func_suffix }}/${{ matrix.env }}/${{ github.sha }}.zip
-          aws s3 cp "$ZIP_PATH" "s3://$ARTIFACT_BUCKET/$KEY"
-          {
-            echo "ARTIFACT_BUCKET=$ARTIFACT_BUCKET"
-            echo "ARTIFACT_KEY=$KEY"
-            echo "FUNCTION_NAME=${{ env.PRODUCT }}-${{ matrix.function.func_suffix }}-${{ matrix.env }}"
-          } >> "$GITHUB_ENV"
-
-      - name: Update Lambda → Publish → Alias switch
-        run: |
-          FUNC="${FUNCTION_NAME}"
-          aws lambda update-function-code --function-name "$FUNC" --s3-bucket "$ARTIFACT_BUCKET" --s3-key "$ARTIFACT_KEY"
-          VER=$(aws lambda publish-version --function-name "$FUNC" --query Version --output text)
-          aws lambda update-alias --function-name "$FUNC" --name live --function-version "$VER"
+          code_dir: ${{ matrix.function.code_dir }}
+          func_suffix: ${{ matrix.function.func_suffix }}
+          env_name: ${{ matrix.env.name }}
+          product: ${{ env.PRODUCT }}
+          aws_region: ${{ env.AWS_REGION }}
+          aws_role_arn: ${{ secrets[format('AWS_ROLE_ARN_{0}', matrix.env.upper)] }}
+          artifact_bucket: ${{ secrets[format('ARTIFACT_BUCKET_{0}', matrix.env.upper)] }}
+          python_version: "3.12"
