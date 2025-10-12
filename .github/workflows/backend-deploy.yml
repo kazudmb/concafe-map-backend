@@ -77,6 +77,10 @@ jobs:
             echo "run=true" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: Checkout
+        if: steps.filter.outputs.run == 'true'
+        uses: actions/checkout@v4
+
       - name: Deploy backend Lambda
         if: steps.filter.outputs.run == 'true'
         uses: ./.github/actions/deploy-backend
