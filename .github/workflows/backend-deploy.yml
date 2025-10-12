@@ -95,4 +95,4 @@ jobs:
           aws_role_arn: ${{ secrets[format('AWS_ROLE_ARN_{0}', matrix.env.upper)] }}
           artifact_bucket: ${{ secrets[format('ARTIFACT_BUCKET_{0}', matrix.env.upper)] }}
           python_version: "3.12"
-          function_name: ${{ format('%s-%s', env.PRODUCT, matrix.function.func_suffix) }}
+          function_name: ${{ format('{0}-{1}', env.PRODUCT, matrix.function.func_suffix) }}
