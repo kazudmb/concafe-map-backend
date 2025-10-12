@@ -29,6 +29,7 @@ jobs:
             code_dir: upsert_cafes
             func_suffix: api-upsert-cafes
       fail-fast: false
+    environment: ${{ matrix.env.name }}
     env:
       AWS_REGION: ${{ vars.AWS_REGION || 'ap-northeast-1' }}
       PRODUCT: ${{ vars.PRODUCT }} # 例: concafe-map
