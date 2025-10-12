@@ -133,6 +133,7 @@ runs:
           exit 1
         fi
         aws lambda update-function-code --function-name "$FUNCTION_NAME" --s3-bucket "$ARTIFACT_BUCKET" --s3-key "$ARTIFACT_KEY"
+        aws lambda wait function-updated --function-name "$FUNCTION_NAME"
         VER=$(aws lambda publish-version --function-name "$FUNCTION_NAME" --query Version --output text)
         if ! aws lambda update-alias --function-name "$FUNCTION_NAME" --name live --function-version "$VER"; then
           aws lambda create-alias --function-name "$FUNCTION_NAME" --name live --function-version "$VER"
