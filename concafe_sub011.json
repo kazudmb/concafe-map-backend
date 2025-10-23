@@ -1,0 +1,6540 @@
+[
+  {
+    "id": "concafe:11115",
+    "name": "Concept Bar BLUE",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5西3丁目 にゅーすすきのビル 5階",
+    "lat": 43.0546899,
+    "lng": 141.354157,
+    "tags": [
+      "お菓子"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/11115",
+    "updatedAt": 1761094631,
+    "phone": "011-2121-554",
+    "nearestStations": [
+      "すすきの"
+    ],
+    "businessHoursText": "17:00~23:00",
+    "holidays": [
+      "水曜日"
+    ],
+    "sns": {
+      "x": "https://twitter.com/B_ConceptBar"
+    }
+  },
+  {
+    "id": "concafe:11315",
+    "name": "Dolly♡princess",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西5丁目21-3 第3旭観光ビル 4階",
+    "lat": 43.0542253,
+    "lng": 141.3507467,
+    "tags": [
+      "お姫様"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/11315",
+    "updatedAt": 1761094631,
+    "nearestStations": [
+      "地下鉄すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "tuesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "wednesday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "thursday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "friday",
+        "open": "17:00",
+        "close": "06:00"
+      },
+      {
+        "day": "saturday",
+        "open": "17:00",
+        "close": "06:00"
+      },
+      {
+        "day": "sunday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "holiday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "17:00",
+        "close": "23:00"
+      }
+    ],
+    "businessHoursText": "17:00~23:00",
+    "holidays": [
+      "火曜日"
+    ],
+    "sns": {
+      "x": "https://twitter.com/dolly_hime__",
+      "web": "https://doripuri.com"
+    }
+  },
+  {
+    "id": "concafe:11363",
+    "name": "江南札幌(カンナムサッポロ)",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西2丁目1-5 中銀すすきのソシアルビル 6F",
+    "lat": 43.05447239999999,
+    "lng": 141.3564697,
+    "tags": [
+      "韓国"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/11363",
+    "updatedAt": 1761094631,
+    "nearestStations": [
+      "すすきの駅",
+      "豊水すすきの駅"
+    ],
+    "businessHoursText": "17:00~23:00",
+    "holidays": [
+      "無し"
+    ],
+    "sns": {
+      "x": "https://twitter.com/Gangnamsapporo",
+      "web": "https://www.instagram.com/gangnamsapporo"
+    }
+  },
+  {
+    "id": "concafe:11384",
+    "name": "花宵-HANAYOI-",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目1-1 第3グリーンビル 7F",
+    "lat": 43.0554783,
+    "lng": 141.3544958,
+    "tags": [
+      "和風"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/11384",
+    "updatedAt": 1761094631,
+    "phone": "070-8456-8741",
+    "nearestStations": [
+      "地下鉄南北線 すすきの駅より徒歩1分"
+    ],
+    "businessHoursText": "18:00~翌6:00",
+    "holidays": [
+      "年中無休"
+    ],
+    "sns": {
+      "x": "https://twitter.com/HANAYOI_8741",
+      "web": "https://hanayoi.jp/"
+    }
+  },
+  {
+    "id": "concafe:11386",
+    "name": "『はぴサタっ！』HAPPY HONEY SATAN札幌",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目1番 幸寿司ビル 5F",
+    "lat": 43.0551708,
+    "lng": 141.3544438,
+    "tags": [
+      "悪魔"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/11386",
+    "updatedAt": 1761094631,
+    "phone": "080-5754-5240",
+    "nearestStations": [
+      "地下鉄南北線すすきの駅から徒歩1分"
+    ],
+    "businessHoursText": "平日 18:00~翌6:0 -\n土日祝 12:00~翌6:00",
+    "holidays": [
+      "年中無休"
+    ],
+    "sns": {
+      "x": "https://twitter.com/HAPI_SATA",
+      "web": "https://hapi-sata.love/"
+    }
+  },
+  {
+    "id": "concafe:11435",
+    "name": "華月",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西三丁目1-1 第3グリーンビル 5階",
+    "lat": 43.0554661,
+    "lng": 141.3544161,
+    "tags": [
+      "和風"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/11435",
+    "updatedAt": 1761094631,
+    "phone": "01-1596-9618",
+    "nearestStations": [
+      "すすきの駅"
+    ],
+    "businessHoursText": "22:00~30:00",
+    "holidays": [
+      "火曜日"
+    ],
+    "sns": {
+      "x": "https://twitter.com/kagetsu0911",
+      "web": "https://kagetsu-wasoubar.jimdofree.com/%E3%81%8A%E5%AC%A2/"
+    }
+  },
+  {
+    "id": "concafe:11454",
+    "name": "狛犬ピンク",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南7条西4丁目 LC拾番館 4階",
+    "lat": 43.05188099999999,
+    "lng": 141.3537493,
+    "tags": [],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/11454",
+    "updatedAt": 1761094631,
+    "phone": "011-522-7785",
+    "nearestStations": [
+      "すすきの駅"
+    ],
+    "businessHoursText": "18:00~翌6:00",
+    "holidays": [
+      "火曜日"
+    ],
+    "sns": {
+      "x": "https://twitter.com/komainupink",
+      "web": "https://komainupink.amebaownd.com/"
+    }
+  },
+  {
+    "id": "concafe:11478",
+    "name": "ナースコンセプトバーLEM",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目 第3グリーンビル 4F",
+    "lat": 43.0554661,
+    "lng": 141.3544161,
+    "tags": [
+      "ナース･病院"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/11478",
+    "updatedAt": 1761094631,
+    "phone": "080-5092-6493",
+    "nearestStations": [
+      "すすきの駅"
+    ],
+    "businessHoursText": "18:00~27:00",
+    "holidays": [
+      "木曜日"
+    ],
+    "sns": {
+      "x": "https://twitter.com/lem6661128"
+    }
+  },
+  {
+    "id": "concafe:11508",
+    "name": "メイドinしゃんぐりら",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目1-1 第三グリーンビル 6階",
+    "lat": 43.0554783,
+    "lng": 141.3544958,
+    "tags": [],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/11508",
+    "updatedAt": 1761094631,
+    "phone": "01-1211-8598",
+    "nearestStations": [
+      "すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "saturday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "sunday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "holiday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "18:00",
+        "close": "06:00"
+      }
+    ],
+    "businessHoursText": "1部 18:00~23:00\n2部 24:00~6:00",
+    "holidays": [
+      "不定休"
+    ],
+    "sns": {
+      "x": "https://twitter.com/madeinshangrila",
+      "web": "https://maidcafe.monster/"
+    }
+  },
+  {
+    "id": "concafe:11551",
+    "name": "アニソンコスプレバー マジョリカ",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目第3グリーンビル4階",
+    "lat": 43.0554661,
+    "lng": 141.3544161,
+    "tags": [
+      "アニソン"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/11551",
+    "updatedAt": 1761094631,
+    "phone": "011-206-9868",
+    "nearestStations": [
+      "すすきの駅"
+    ],
+    "businessHoursText": "平日 19:00~2:00\n金土 19:00~5:30",
+    "holidays": [
+      "火曜日"
+    ],
+    "sns": {
+      "x": "https://twitter.com/majori_ca",
+      "web": "https://conceptbar.info/majori-ca/"
+    }
+  },
+  {
+    "id": "concafe:11671",
+    "name": "ボドゲ＆特撮バー オフライン",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西2丁目1-5  中銀ビル 2F",
+    "lat": 43.05447239999999,
+    "lng": 141.3564697,
+    "tags": [
+      "ボードゲーム"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/11671",
+    "updatedAt": 1761094631,
+    "phone": "090-2872-2656",
+    "nearestStations": [
+      "豊水すすきの駅"
+    ],
+    "businessHoursText": "日~木 19:00~23:00\n金 19:00~2:00\n土 19:00~5:00",
+    "holidays": [
+      "無し"
+    ],
+    "sns": {
+      "x": "https://twitter.com/off_line2021",
+      "web": "http://hongou.o.oo7.jp/"
+    }
+  },
+  {
+    "id": "concafe:11743",
+    "name": "リボンメイドカフェ ロゼリータ 札幌",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目 第3グリーンビル 5階",
+    "lat": 43.0554661,
+    "lng": 141.3544161,
+    "tags": [
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/11743",
+    "updatedAt": 1761094631,
+    "phone": "01-1206-0969",
+    "nearestStations": [
+      "南北線 すすきの駅から徒歩1分"
+    ],
+    "businessHoursText": "月~金 18:00~翌1:00\n日 18:00~翌2:00\n日 18:00~23:00",
+    "holidays": [
+      "不定休"
+    ],
+    "sns": {
+      "x": "https://twitter.com/ribbon_cafe_",
+      "web": "https://maidbar.info/"
+    }
+  },
+  {
+    "id": "concafe:11785",
+    "name": "アニメコスプレバー シャングリラセカンド",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目第3グリーンビル6階",
+    "lat": 43.0554661,
+    "lng": 141.3544161,
+    "tags": [
+      "アニソン"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/11785",
+    "updatedAt": 1761094631,
+    "phone": "011-211-1222",
+    "nearestStations": [
+      "すすきの駅"
+    ],
+    "businessHoursText": "平日 19:00~2:00\n金土 19:00~3:00",
+    "holidays": [
+      "月曜日"
+    ],
+    "sns": {
+      "x": "https://twitter.com/shangri_la_2nd",
+      "web": "https://shangrilaxxxx.wixsite.com/home"
+    }
+  },
+  {
+    "id": "concafe:11798",
+    "name": "ニュースナックしゃんぐりら",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目1-1 第三グリーンビル 6階",
+    "lat": 43.0554783,
+    "lng": 141.3544958,
+    "tags": [],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/11798",
+    "updatedAt": 1761094631,
+    "phone": "01-1211-1808",
+    "nearestStations": [
+      "すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "tuesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "wednesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "thursday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "friday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "saturday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "pre_holiday",
+        "open": null,
+        "close": null
+      }
+    ],
+    "businessHoursText": "20:00~3:00",
+    "holidays": [
+      "不定休"
+    ],
+    "sns": {
+      "x": "https://twitter.com/snackshangrila",
+      "web": "https://snack.conceptbar.info/"
+    }
+  },
+  {
+    "id": "concafe:12037",
+    "name": "メイド喫茶ゆいまーる",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南3条西2丁目15-1 N.VICOLOビルB1階(狸小路2丁目)",
+    "lat": 43.0575956,
+    "lng": 141.3553177,
+    "tags": [
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/12037",
+    "updatedAt": 1761094631,
+    "phone": "011-206-9123",
+    "nearestStations": [
+      "すすきの駅より徒歩3分"
+    ],
+    "businessHoursText": "平日 15:00~23:30\n金 15:00~翌6:00\n土 13:00~翌6:00\n日 13:00~23:30",
+    "holidays": [
+      "なし"
+    ],
+    "sns": {
+      "x": "https://twitter.com/tentyou_yuimar",
+      "web": "https://yuima-r.jp"
+    }
+  },
+  {
+    "id": "concafe:12041",
+    "name": "メイド喫茶ドーリーカフェショコラ",
+    "area": "札幌・すすきの",
+    "address": "北海道〒060-0063 北海道札幌市中央区南3条西4丁目ビッグシルバービル3階",
+    "lat": 43.0564668,
+    "lng": 141.3528374,
+    "tags": [
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/12041",
+    "updatedAt": 1761094631,
+    "phone": "011-206-8922",
+    "nearestStations": [
+      "すすきの駅より徒歩3分"
+    ],
+    "businessHoursText": "月~木 17:00~24:00\n金・祝日前 17:00~翌6:00\n土 14:00~翌6:00\n日 12:00~22:00",
+    "holidays": [
+      "元旦"
+    ],
+    "sns": {
+      "x": "https://twitter.com/Chocolat_info",
+      "web": "https://cafechocolat.webcrow.jp"
+    }
+  },
+  {
+    "id": "concafe:12046",
+    "name": "萌えカフェ&BAR ゆるふわ",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西5丁目第二観光会館ビル4階",
+    "lat": 43.0548097,
+    "lng": 141.3505276,
+    "tags": [
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/12046",
+    "updatedAt": 1761094631,
+    "phone": "011-532-7222",
+    "businessHoursText": "月~金 16:00~翌3:00\n土・祝 14:00~翌3:00\n日 14:00~21:00\n祝日前の(日) 14:00~翌3:00",
+    "holidays": [
+      "なし"
+    ],
+    "sns": {
+      "x": "https://twitter.com/yurufuwanet",
+      "web": "http://www.yurufuwa.net/"
+    }
+  },
+  {
+    "id": "concafe:12048",
+    "name": "アイドルカフェ",
+    "area": "札幌・すすきの",
+    "address": "北海道〒064-0807 北海道札幌市中央区南7条西4-422-6 LC拾番館ビル4階",
+    "lat": 43.05188099999999,
+    "lng": 141.3537493,
+    "tags": [
+      "アイドル"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/12048",
+    "updatedAt": 1761094631,
+    "phone": "011-520-2520",
+    "nearestStations": [
+      "すすきの駅より徒歩7分"
+    ],
+    "businessHoursText": "20:00~翌2:00",
+    "holidays": [
+      "なし"
+    ],
+    "sns": {
+      "x": "https://twitter.com/idolcafe",
+      "web": "https://www.idolcafe.jp"
+    }
+  },
+  {
+    "id": "concafe:12060",
+    "name": "札幌メイド喫茶AntiqueCafe",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南3条西2丁目15-1 N.VICOLOビル4階(狸小路2丁目)",
+    "lat": 43.057393,
+    "lng": 141.3552737,
+    "tags": [
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/12060",
+    "updatedAt": 1761094631,
+    "phone": "090-1389-0060",
+    "businessHoursText": "13:00~22:00",
+    "holidays": [
+      "水曜日"
+    ],
+    "sns": {
+      "x": "https://twitter.com/AntiqueCafe0810",
+      "web": "https://café-antiquecafe.com"
+    }
+  },
+  {
+    "id": "concafe:12064",
+    "name": "札幌メイド喫茶アンククレスト",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区狸小路1丁目第二広和ビル3階",
+    "lat": 43.0578205,
+    "lng": 141.3563914,
+    "tags": [
+      "サブカル"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/12064",
+    "updatedAt": 1761094631,
+    "phone": "011-207-5630",
+    "businessHoursText": "月~木 16:00~23:00\n金土祝日前 16:00~翌3:00\n日祝 15:00~23:00",
+    "holidays": [
+      "なし"
+    ],
+    "sns": {
+      "x": "https://twitter.com/ankcrest1989",
+      "web": "https://ankcrest.com"
+    }
+  },
+  {
+    "id": "concafe:21874",
+    "name": "ぱら♡ろす～Paradise Lost～",
+    "area": "札幌・すすきの",
+    "address": "北海道〒064-0805 北海道札幌市中央区南５条西３丁目８ Ｎ・グランデビル 2Ｆ",
+    "lat": 43.0547818,
+    "lng": 141.3543874,
+    "tags": [
+      "メイド",
+      "美少女",
+      "堕天使"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/21874",
+    "updatedAt": 1761094631,
+    "nearestStations": [
+      "すすきの駅徒歩1分"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "19:00",
+        "close": "05:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "19:00",
+        "close": "05:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "19:00",
+        "close": "05:00"
+      },
+      {
+        "day": "thursday",
+        "open": "19:00",
+        "close": "05:00"
+      },
+      {
+        "day": "friday",
+        "open": "19:00",
+        "close": "05:00"
+      },
+      {
+        "day": "saturday",
+        "open": "19:00",
+        "close": "05:00"
+      },
+      {
+        "day": "sunday",
+        "open": "19:00",
+        "close": "05:00"
+      },
+      {
+        "day": "holiday",
+        "open": "19:00",
+        "close": "05:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": null,
+        "close": null
+      }
+    ],
+    "businessHoursText": "19:00〜翌5:00",
+    "holidays": [
+      "なし"
+    ],
+    "sns": {
+      "x": "https://mobile.twitter.com/Paralos_concafe/media",
+      "instagram": "https://instagram.com/paradise_lost_sapporo?igshid=YmMyMTA2M2Y="
+    }
+  },
+  {
+    "id": "concafe:25447",
+    "name": "【閉店】ビビッとこないと！札幌店",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南6西4LC壱番館7階",
+    "lat": 43.0506883,
+    "lng": 141.3268359,
+    "tags": [
+      "アニメ",
+      "コスプレ"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/25447",
+    "updatedAt": 1761094631,
+    "phone": "0115966561",
+    "nearestStations": [
+      "地下鉄すすきの駅",
+      "地下鉄中島公園駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "tuesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "wednesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "thursday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "friday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "saturday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "pre_holiday",
+        "open": null,
+        "close": null
+      }
+    ],
+    "businessHoursText": "OPEN 19:00\r\nCLOSE 24:00\r\nLO,最終入店23:00",
+    "holidays": [
+      "火曜日"
+    ],
+    "sns": {
+      "x": "https://twitter.com/vivitknit",
+      "instagram": "https://www.instagram.com/vivitknit/",
+      "tiktok": "https://www.tiktok.com/@vivitknit?is_from_webapp=1&sender_device=pc"
+    }
+  },
+  {
+    "id": "concafe:25542",
+    "name": "メイドinしゃんぐりら",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区札幌市中央区南4条西3丁目　第3グリーンビル　6Ｆ",
+    "lat": 43.0554661,
+    "lng": 141.3544161,
+    "tags": [],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/25542",
+    "updatedAt": 1761094631,
+    "phone": "011-211-8598",
+    "nearestStations": [
+      "札幌市営地下鉄南北線 ／ すすきの駅 徒歩2分",
+      "札幌市電山鼻線 ／ すすきの駅 徒歩2分",
+      "札幌市営地下鉄東豊線 ／ 豊水すすきの駅 徒歩3分"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "saturday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "sunday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "holiday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": null,
+        "close": null
+      }
+    ],
+    "businessHoursText": "1部　18:00〜23:00、2部　24:00〜翌6:00　\r\n※23：00～24：00の間はキャスト入れ替えのため中休みです",
+    "holidays": [
+      "不定休"
+    ],
+    "sns": {
+      "x": "https://twitter.com/madeinshangrila",
+      "web": "https://maidcafe.monster/"
+    }
+  },
+  {
+    "id": "concafe:26063",
+    "name": "ラブラビッツ",
+    "area": "札幌・すすきの",
+    "address": "北海道〒064-0804 北海道札幌市中央区南４条西３丁目1番地1 第３グリーンビル 4階",
+    "lat": 43.0554783,
+    "lng": 141.3544958,
+    "tags": [
+      "バニー",
+      "メイド",
+      "アメリカン"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/26063",
+    "updatedAt": 1761094631,
+    "nearestStations": [
+      "札幌地下鉄　南北線すすきの"
+    ],
+    "businessHoursText": " 18:00~4:00",
+    "holidays": [
+      "なし"
+    ],
+    "sns": {
+      "x": "https://twitter.com/loverabbits82?t=FYpN27ShaR9UbEt6DwEJfQ&s=06"
+    }
+  },
+  {
+    "id": "concafe:30981",
+    "name": "黒猫メイド魔法カフェ札幌ドンキ狸小路店",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南3条西4丁目12-1MEGAドン・キホーテ札幌狸小路本店4階",
+    "lat": 43.0569601,
+    "lng": 141.3525636,
+    "tags": [
+      "メイド",
+      "猫耳",
+      "魔法少女"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/30981",
+    "updatedAt": 1761094631,
+    "phone": "011-200-9767",
+    "nearestStations": [
+      "札幌市営地下鉄南北線「すすきの駅」より徒歩4分",
+      "札幌市電「狸小路駅」より徒歩1分"
+    ],
+    "businessHoursText": "月～金　13:00 ～ 22:00　\n土日祝　11:00 ～ 22:00",
+    "holidays": [
+      "年中無休"
+    ],
+    "sns": {
+      "x": "https://twitter.com/Sapporo_neko",
+      "web": "http://www.kuroneco.site/"
+    }
+  },
+  {
+    "id": "concafe:30987",
+    "name": "黒猫メイド魔法カフェ+すすきの店",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目6-2-1F",
+    "lat": 43.056129,
+    "lng": 141.3541922,
+    "tags": [
+      "メイド",
+      "猫耳",
+      "魔法少女"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/30987",
+    "updatedAt": 1761094631,
+    "phone": "011-241-0533",
+    "nearestStations": [
+      "すすきの駅 1番出口から徒歩1分"
+    ],
+    "businessHoursText": "平日　　　　お昼15時～夜22時\n土、日、祝　お昼13時～夜22時",
+    "holidays": [
+      "年中無休"
+    ],
+    "sns": {
+      "x": "https://twitter.com/NecoSusukino",
+      "web": "http://www.kuroneco.fun/"
+    }
+  },
+  {
+    "id": "concafe:31596",
+    "name": "NoLogic",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目1-1 第3グリーンビル6階",
+    "lat": 43.0554783,
+    "lng": 141.3544958,
+    "tags": [
+      "アニメ",
+      "ゲーム",
+      "コミック"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/31596",
+    "updatedAt": 1761094631,
+    "phone": "08060988944",
+    "nearestStations": [
+      "地下鉄南北線",
+      "すすきの駅から徒歩2分",
+      "地下鉄東豊線",
+      "豊水すすきの駅から徒歩3分"
+    ],
+    "businessHoursText": "火曜〜木曜\r\n\r\n19:00〜3:00\r\n\r\n金曜〜土曜\r\n\r\n19:00〜6:00\r\n\r\n日曜\r\n\r\n19:00〜3:00",
+    "holidays": [
+      "月曜日"
+    ],
+    "sns": {
+      "x": "https://twitter.com/nologic_anicos",
+      "instagram": "https://instagram.com/nologic_anicos?igshid=OGQ5ZDc2ODk2ZA==",
+      "tiktok": "https://www.tiktok.com/@nologic_anime?_t=8gCss8oiAhm&_r=1"
+    }
+  },
+  {
+    "id": "concafe:33586",
+    "name": "メイドカフェ　Parlour Maid",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西2丁目オークラビル5階",
+    "lat": 43.0543857,
+    "lng": 141.3555888,
+    "tags": [
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/33586",
+    "updatedAt": 1761094631,
+    "phone": "0115225699",
+    "nearestStations": [
+      "すすきの駅"
+    ],
+    "holidays": [
+      "月曜日定休"
+    ],
+    "sns": {
+      "x": "https://x.com/maid_cafe2023?t=1pjWpLBAQf8_J-_153PJEw&s=09",
+      "instagram": "https://instagram.com/parlour_maid?igshid=YTQwZjQ0NmI0OA=="
+    }
+  },
+  {
+    "id": "concafe:34883",
+    "name": "猫耳メイドカフェバーにゃーとぴあ札幌",
+    "area": "札幌・すすきの",
+    "address": "北海道 札幌市中央区南５条西３丁目 Nグランデビル5階",
+    "lat": 43.0547818,
+    "lng": 141.3543874,
+    "tags": [
+      "ねこ",
+      "メイド",
+      "猫耳"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/34883",
+    "updatedAt": 1761094631,
+    "phone": "011-596-8633",
+    "businessHoursText": "月火木日19時～2時 金土19時～5時30分",
+    "holidays": [
+      "お店にお問い合わせください"
+    ],
+    "sns": {
+      "x": "https://twitter.com/nekomimimaidbar"
+    }
+  },
+  {
+    "id": "concafe:35075",
+    "name": "WOLFRAM (ウルフラム)",
+    "area": "札幌・すすきの",
+    "address": "北海道 札幌市 中央区南4条西3丁目No2Gビル4F",
+    "lat": 43.0537709,
+    "lng": 141.3370059,
+    "tags": [
+      "SF",
+      "アメコミ",
+      "映画",
+      "モンスター"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/35075",
+    "updatedAt": 1761094631,
+    "businessHoursText": "18:00～23:30",
+    "holidays": [
+      "なし"
+    ],
+    "sns": {
+      "x": "https://twitter.com/barwolfram",
+      "web": "https://barwolfram.wixsite.com/wolfram"
+    }
+  },
+  {
+    "id": "concafe:35111",
+    "name": "リルカリーナ【札幌コンカフェ・アニメバー】",
+    "area": "札幌・すすきの",
+    "address": "北海道中央区南5条西3丁目第11グリーンビル7階",
+    "lat": 43.0543725,
+    "lng": 141.3548923,
+    "tags": [
+      "コスプレ"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/35111",
+    "updatedAt": 1761094631,
+    "phone": "011-206-4262",
+    "nearestStations": [
+      "すすきの"
+    ],
+    "businessHoursText": "(平日・日)18時〜24時(金•土)18時～3時or6時",
+    "holidays": [
+      "なし"
+    ],
+    "sns": {
+      "x": "https://twitter.com/LircariNa"
+    }
+  },
+  {
+    "id": "concafe:35186",
+    "name": "ぷちあんじゅ",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目3第2グリーンビル 6階",
+    "lat": 43.0553665,
+    "lng": 141.3539428,
+    "tags": [
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/35186",
+    "updatedAt": 1761094631,
+    "phone": "090-7517-6351",
+    "nearestStations": [
+      "すすきの"
+    ],
+    "businessHoursText": "・月～日 17:00～25:00\r\n・かふぇタイム17:00～22:00\r\n・ばータイム 22:00～25:00",
+    "sns": {
+      "x": "https://twitter.com/cafe_petitange"
+    }
+  },
+  {
+    "id": "concafe:35190",
+    "name": "メイドカフェ　あみゅーる",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西2丁目2  サイバーシティビル10F",
+    "lat": 43.0543966,
+    "lng": 141.3560245,
+    "tags": [
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/35190",
+    "updatedAt": 1761094631,
+    "phone": "011-206-0622",
+    "businessHoursText": "平日18時〜23時 土日祝16時〜23時 ",
+    "holidays": [
+      "年中無休"
+    ],
+    "sns": {
+      "x": "https://twitter.com/amyur_sapporo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "web": "http://www.amyur.com"
+    }
+  },
+  {
+    "id": "concafe:35198",
+    "name": "異世界めいどかふぇARIA",
+    "area": "札幌・すすきの",
+    "address": "北海道狸小路二丁目Nヴィコロビル2階",
+    "lat": 43.05737930000001,
+    "lng": 141.3552854,
+    "tags": [
+      "メイド",
+      "異世界"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/35198",
+    "updatedAt": 1761094631,
+    "nearestStations": [
+      "大通り"
+    ],
+    "businessHoursText": "15時ー23時",
+    "holidays": [
+      "なし"
+    ],
+    "sns": {
+      "x": "https://twitter.com/aria_isekai"
+    }
+  },
+  {
+    "id": "concafe:35201",
+    "name": "サブカル&メイドバー　しぇもわ",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西2丁目サイバーシティビル11階",
+    "lat": 43.0543966,
+    "lng": 141.3560245,
+    "tags": [
+      "サブカル",
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/35201",
+    "updatedAt": 1761094631,
+    "businessHoursText": "9:00〜23:00(Lo.4:30) 日曜18:00〜23:00(Lo.22:30)",
+    "holidays": [
+      "なし"
+    ],
+    "sns": {
+      "x": "https://twitter.com/chezmoi_moe",
+      "web": "https://lit.link/chezmoi0401"
+    }
+  },
+  {
+    "id": "concafe:35204",
+    "name": "小料理＆チャイナバー茉莉花(マツリカ)",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市 中央区 南5条西6丁目 ニュー桂和ビル6階",
+    "lat": 43.0541808,
+    "lng": 141.3501759,
+    "tags": [
+      "チャイナ"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/35204",
+    "updatedAt": 1761094631,
+    "nearestStations": [
+      "すすきの"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "tuesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "wednesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "thursday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "friday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "saturday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "pre_holiday",
+        "open": null,
+        "close": null
+      }
+    ],
+    "businessHoursText": "［OPEN］20〜翌5時［CLOSE］",
+    "sns": {
+      "x": "https://twitter.com/matsuri_ka0427",
+      "web": "https://matsuri-ka.jimdofree.com"
+    }
+  },
+  {
+    "id": "concafe:35207",
+    "name": "Geeks Bar Jabbis(ジャビス)",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南４条西３丁目No.1Gビル7階",
+    "lat": 43.0556191,
+    "lng": 141.3542918,
+    "tags": [
+      "アニソン"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/35207",
+    "updatedAt": 1761094631,
+    "businessHoursText": "平日 20:00～1:00\r\n金土 20:00～4:00",
+    "holidays": [
+      "日曜（月曜が祝日の場合は日曜営業、月曜休）"
+    ],
+    "sns": {
+      "x": "https://twitter.com/geeksbar_jabbis"
+    }
+  },
+  {
+    "id": "concafe:35213",
+    "name": "ボカロアニソンバー メルト",
+    "area": "札幌・すすきの",
+    "address": "北海道 札幌市中央区南5西3中銀三番館ビル3階",
+    "lat": 43.054095,
+    "lng": 141.354376,
+    "tags": [
+      "ボーカロイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/35213",
+    "updatedAt": 1761094631,
+    "businessHoursText": "平日・週末・祝前日22時〜5時",
+    "holidays": [
+      "水曜日"
+    ],
+    "sns": {
+      "x": "https://twitter.com/vocaloidbarmelt",
+      "web": "https://bar-melt.jp/index.html"
+    }
+  },
+  {
+    "id": "concafe:35336",
+    "name": "アニメカフェバー ササプロW",
+    "area": "札幌・すすきの",
+    "address": "北海道 札幌市北区北２４条西４丁目1-20 グランドビル2F",
+    "lat": 43.090732,
+    "lng": 141.3441837,
+    "tags": [
+      "アニメ"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/35336",
+    "updatedAt": 1761094631,
+    "phone": "011-792-9750",
+    "businessHoursText": "19:00～26：00",
+    "holidays": [
+      "年中無休"
+    ],
+    "sns": {
+      "x": "https://twitter.com/sasapuro24"
+    }
+  },
+  {
+    "id": "concafe:35349",
+    "name": "ボカロバー ツインテール札幌",
+    "area": "札幌・すすきの",
+    "address": "北海道 札幌市中央区南５条西３丁目１０ ニューすすきのビル9F",
+    "lat": 43.0546899,
+    "lng": 141.354157,
+    "tags": [
+      "ボーカロイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/35349",
+    "updatedAt": 1761094631,
+    "phone": "011-211-6336",
+    "nearestStations": [
+      "すすきの"
+    ],
+    "businessHoursText": "平日20：00～2：00　金土20：00～3：00",
+    "holidays": [
+      "日曜日"
+    ],
+    "sns": {
+      "x": "https://twitter.com/twintail393939"
+    }
+  },
+  {
+    "id": "concafe:36262",
+    "name": "バニー執事喫茶 月光",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南五条西2-1-5中銀すすきのソシアルビル6F",
+    "lat": 43.05447239999999,
+    "lng": 141.3564697,
+    "tags": [
+      "バニー",
+      "執事"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36262",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "nearestStations": [
+      "豊水すすきの駅"
+    ],
+    "businessHoursText": "金土18:00〜23:00\n日〜木19:00〜23:00",
+    "holidays": [
+      "年中無休"
+    ],
+    "sns": {
+      "x": "https://x.com/bunny_shitsuji"
+    }
+  },
+  {
+    "id": "concafe:36263",
+    "name": "JACK",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南六条西6-7-2太陽館5F",
+    "lat": 43.0528381,
+    "lng": 141.3538014,
+    "tags": [
+      "悪魔",
+      "天使"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36263",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0806",
+    "nearestStations": [
+      "すすきの駅"
+    ],
+    "businessHoursText": "21:00〜",
+    "holidays": [
+      "月曜日"
+    ],
+    "sns": {
+      "x": "https://x.com/jack_susukino"
+    }
+  },
+  {
+    "id": "concafe:36264",
+    "name": "君のプリンス",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南7条4-2-5LC7番館1F",
+    "lat": 43.0505931,
+    "lng": 141.3421023,
+    "tags": [
+      "王子"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36264",
+    "updatedAt": 1761094631,
+    "nearestStations": [
+      "すすきの駅"
+    ],
+    "businessHoursText": "13:00〜17:00",
+    "sns": {
+      "x": "https://x.com/1promotion22732"
+    }
+  },
+  {
+    "id": "concafe:36265",
+    "name": "ギルティブレイク",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南6条西6-7-2ライオンビル太陽館8F",
+    "lat": 43.0532042,
+    "lng": 141.3503816,
+    "tags": [
+      "イケメン"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36265",
+    "updatedAt": 1761094631,
+    "nearestStations": [
+      "すすきの駅"
+    ],
+    "businessHoursText": "21:00〜6:00",
+    "holidays": [
+      "なし"
+    ],
+    "sns": {
+      "x": "https://x.com/chouchoumi39841"
+    }
+  },
+  {
+    "id": "concafe:36266",
+    "name": "いんそむにあ",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南五条西3-9-4グランド桂和ビルB1F",
+    "lat": 43.05489000000001,
+    "lng": 141.3541547,
+    "tags": [
+      "イケメン",
+      "癒し"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36266",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "nearestStations": [
+      "すすきの駅"
+    ],
+    "businessHoursText": "0:00〜5:00",
+    "sns": {
+      "x": "https://x.com/insomnia_dayo"
+    }
+  },
+  {
+    "id": "concafe:36383",
+    "name": "1LDK -Darkness-",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南五条西2丁目2-2 4階",
+    "lat": 43.0543966,
+    "lng": 141.3560245,
+    "tags": [
+      "サキュバス",
+      "美少女"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36383",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "phone": "011-212-1580",
+    "nearestStations": [
+      "地下鉄南北線すすきの駅3番出口徒歩4分",
+      "地下鉄東豊線豊水すすきの駅徒歩1分"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "saturday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "sunday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "holiday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "18:00",
+        "close": "06:00"
+      }
+    ],
+    "holidays": [
+      "なし"
+    ],
+    "sns": {
+      "x": "https://x.com/1ldk_darkness?s=21&t=tybiDoDfpMyIeocjbImVDQ",
+      "instagram": "https://www.instagram.com/1ldk.darkness?igsh=MTg3ZzE1a2Z4cjJuNw=="
+    }
+  },
+  {
+    "id": "concafe:36421",
+    "name": "日本酒&アニメバー巡舞Voyage",
+    "area": "札幌・すすきの",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "tags": [],
+    "sourceUrl": "https://con-cafe.jp/list",
+    "updatedAt": 1761094631,
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "tuesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "wednesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "thursday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "friday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "saturday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "pre_holiday",
+        "open": null,
+        "close": null
+      }
+    ]
+  },
+  {
+    "id": "concafe:36425",
+    "name": "Love Rabbits（ラブラビッツ）",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南４条西３丁目１−１",
+    "lat": 43.0554661,
+    "lng": 141.3544161,
+    "tags": [
+      "バニー",
+      "アメリカン"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36425",
+    "updatedAt": 1761094631,
+    "nearestStations": [
+      "すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "18:00"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "saturday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "18:00",
+        "close": "06:00"
+      }
+    ],
+    "sns": {
+      "x": "https://twitter.com/loverabbits82"
+    },
+    "googleMapUrl": "https://www.google.com/maps/place/%E3%80%92064-0804+%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%EF%BC%94%E6%9D%A1%E8%A5%BF%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%91%E2%88%92%EF%BC%91+%E7%AC%AC%EF%BC%93%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%93%E3%83%AB/@43.0554661,141.3544161,17z/data=!3m1!4b1!4m6!3m5!1s0x5f0b29841649b49d:0x862f53d9dad3275!8m2!3d43.0554661!4d141.3544161!16s%2Fg%2F12hqkc3dm?entry=ttu"
+  },
+  {
+    "id": "concafe:36434",
+    "name": "CAPRICE@札幌コンカフェ&ライブバー",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南7条西3丁目 青樹社ビルB1F",
+    "lat": 43.05173,
+    "lng": 141.3545955,
+    "tags": [
+      "メイド",
+      "音楽"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36434",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0807",
+    "phone": "070-1521-0460",
+    "nearestStations": [
+      "南北線、札幌市電すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "saturday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "sunday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "holiday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "18:00",
+        "close": "23:00"
+      }
+    ],
+    "sns": {
+      "x": "https://x.com/music_caprice?s=21&t=vqwHCFMnHNLs-nReSTWhIA",
+      "web": "https://capricesapporo.jp/menu/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps?client=safari&sca_esv=bc706ee9c110cef9&channel=iphone_bm&output=search&q=%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%977%E6%9D%A1%E8%A5%BF%E3%80%80%E9%9D%92%E6%A8%B9%E7%A4%BE%E3%83%93%E3%83%AB&source=lnms&fbs=AEQNm0C9KbfrPGmXDM5T43iG39HOCvimQET0s5BCCq4upGzWDhIv6YQE3-Yzh8Zx3EuvvcUNT-jOauAOagvPL5fD24BSfL-Uvt3Cm71xohmCGspc_N89UVouSYrm5lpieXPRPzOFie50xb7QHF6J5gUytNyYb_YVU65ReXkFTj0sw8Z-LgQ8PSvFWdpZTP2jSSZfyCOY0bBfrOQJhj25QNWKQUK_hcoVOxvRZhlQU3pvB1US9LQRaQo&entry=mc&ved=1t:200715&ictx=111"
+  },
+  {
+    "id": "concafe:36435",
+    "name": "メイド喫茶＆BAR ジュリエット",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市西区琴似1条3丁目17-3TM-23ビル　2階",
+    "lat": 43.0773851,
+    "lng": 141.3063709,
+    "tags": [
+      "コスプレ",
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36435",
+    "updatedAt": 1761094631,
+    "postalCode": "063-0811",
+    "phone": "0116117772",
+    "nearestStations": [
+      "地下鉄琴似駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "21:00",
+        "close": "02:00"
+      },
+      {
+        "day": "tuesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "wednesday",
+        "open": "21:00",
+        "close": "02:00"
+      },
+      {
+        "day": "thursday",
+        "open": "21:00",
+        "close": "02:00"
+      },
+      {
+        "day": "friday",
+        "open": "21:00",
+        "close": "02:00"
+      },
+      {
+        "day": "saturday",
+        "open": "21:00",
+        "close": "02:00"
+      },
+      {
+        "day": "sunday",
+        "open": "21:00",
+        "close": "02:00"
+      },
+      {
+        "day": "holiday",
+        "open": "21:00",
+        "close": "02:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "21:00",
+        "close": "02:00"
+      }
+    ],
+    "holidays": [
+      "火曜日"
+    ],
+    "sns": {
+      "x": "https://x.com/juliet_kotonii",
+      "instagram": "https://www.instagram.com/7772juliet/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/search/%E6%9C%AD%E5%B9%8C%E5%B8%82%E8%A5%BF%E5%8C%BA%E7%90%B4%E4%BC%BC1%E6%9D%A13%E4%B8%81%E7%9B%AE17-3TM-23%E3%83%93%E3%83%AB/@43.0772215,141.3047844,18z/data=!3m1!4b1?entry=ttu"
+  },
+  {
+    "id": "concafe:36436",
+    "name": "Shangri-La 2nd",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目 第3グリーンビル6階",
+    "lat": 43.0554178,
+    "lng": 141.3544573,
+    "tags": [
+      "アニソン",
+      "アニメ",
+      "コスプレ"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36436",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0804",
+    "phone": "011-211-1222",
+    "nearestStations": [
+      "札幌市営地下鉄/札幌市電山鼻線 すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "tuesday",
+        "open": "19:00",
+        "close": "02:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "19:00",
+        "close": "02:00"
+      },
+      {
+        "day": "thursday",
+        "open": "19:00",
+        "close": "02:00"
+      },
+      {
+        "day": "friday",
+        "open": "19:00",
+        "close": "02:00"
+      },
+      {
+        "day": "saturday",
+        "open": "19:00",
+        "close": "02:00"
+      },
+      {
+        "day": "sunday",
+        "open": "19:00",
+        "close": "02:00"
+      },
+      {
+        "day": "holiday",
+        "open": "19:00",
+        "close": "02:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "19:00",
+        "close": "02:00"
+      }
+    ],
+    "holidays": [
+      "月曜日"
+    ],
+    "sns": {
+      "x": "https://x.com/Shangri_La_2nd",
+      "web": "https://conceptbar.info/shangri-la/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/search/%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%974%E6%9D%A1%E8%A5%BF3%E4%B8%81%E7%9B%AE+%E7%AC%AC3%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%93%E3%83%AB/@43.0553931,141.3520451,17z/data=!3m1!4b1?entry=ttu"
+  },
+  {
+    "id": "concafe:36437",
+    "name": "札幌メイド喫茶あったかポケット",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南三条西2丁目N VICOROビル4F右奥",
+    "lat": 43.05737930000001,
+    "lng": 141.3552854,
+    "tags": [
+      "かわいい",
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36437",
+    "updatedAt": 1761094631,
+    "postalCode": "060-0063",
+    "phone": "080-6072-4826",
+    "nearestStations": [
+      "札幌市営地下鉄東豊線/豊水すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "15:00",
+        "close": "23:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "15:00",
+        "close": "23:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "15:00",
+        "close": "23:00"
+      },
+      {
+        "day": "thursday",
+        "open": "15:00",
+        "close": "23:00"
+      },
+      {
+        "day": "friday",
+        "open": "23:00",
+        "close": "06:00"
+      },
+      {
+        "day": "saturday",
+        "open": "23:00",
+        "close": "06:00"
+      },
+      {
+        "day": "sunday",
+        "open": "15:00",
+        "close": "23:00"
+      },
+      {
+        "day": "holiday",
+        "open": "15:00",
+        "close": "23:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "15:00",
+        "close": "23:00"
+      }
+    ],
+    "sns": {
+      "x": "https://x.com/attakapocket",
+      "tiktok": "https://www.tiktok.com/@attakapocket",
+      "web": "https://maidcafe-ap.com/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%80%92060-0063+%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%EF%BC%93%E6%9D%A1%E8%A5%BF%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%95%E2%88%92%EF%BC%91+N%E3%83%BB%E3%83%B4%E3%82%A3%E3%82%B3%E3%83%AD/@43.0573793,141.3527105,17z/data=!3m1!4b1!4m6!3m5!1s0x5f0b29839dc27327:0x10ece7d23fff7577!8m2!3d43.0573793!4d141.3552854!16s%2Fg%2F11ddyyc_dp?entry=ttu"
+  },
+  {
+    "id": "concafe:36441",
+    "name": "わたがし",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南6条西2丁目8-5 フォレストビルB1F",
+    "lat": 43.0537678,
+    "lng": 141.3556728,
+    "tags": [
+      "私服"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36441",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0806",
+    "phone": "011-522-5559",
+    "nearestStations": [
+      "札幌市営地下鉄/豊水すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "19:00",
+        "close": "00:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "19:00",
+        "close": "00:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "19:00",
+        "close": "00:00"
+      },
+      {
+        "day": "thursday",
+        "open": "19:00",
+        "close": "00:00"
+      },
+      {
+        "day": "friday",
+        "open": "19:00",
+        "close": "00:00"
+      },
+      {
+        "day": "saturday",
+        "open": "19:00",
+        "close": "00:00"
+      },
+      {
+        "day": "sunday",
+        "open": "19:00",
+        "close": "00:00"
+      },
+      {
+        "day": "holiday",
+        "open": "19:00",
+        "close": "00:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "19:00",
+        "close": "00:00"
+      }
+    ],
+    "sns": {
+      "x": "https://x.com/search?q=%E3%82%8F%E3%81%9F%E3%81%8C%E3%81%97%E3%80%80%E3%82%B3%E3%83%B3%E3%82%AB%E3%83%95%E3%82%A7&src=typed_query"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%83%95%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%88%E3%83%93%E3%83%AB/@43.0537678,141.3530979,17z/data=!3m2!4b1!5s0x5f0b29868de6409f:0xac8bf0b9ce139c74!4m6!3m5!1s0x5f0b296fffd4ce5f:0x1578de1200711920!8m2!3d43.0537678!4d141.3556728!16s%2Fg%2F11sgw0hmd1?entry=ttu"
+  },
+  {
+    "id": "concafe:36442",
+    "name": "【ガルバ】Ribbon リボン",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市西区琴似1条3丁目 TM23ビル2階",
+    "lat": 43.0772394,
+    "lng": 141.3048985,
+    "tags": [],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36442",
+    "updatedAt": 1761094631,
+    "postalCode": "063-0811",
+    "phone": "050-1114-2922",
+    "nearestStations": [
+      "札幌市営地下鉄東西線/琴似駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "thursday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "friday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "saturday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "20:00",
+        "close": "00:00"
+      }
+    ],
+    "holidays": [
+      "日曜日"
+    ],
+    "sns": {
+      "x": "https://x.com/Ribbon_2024?s=11&t=vqwHCFMnHNLs-nReSTWhIA"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/Tm+23%E3%83%93%E3%83%AB2%E9%9A%8E/@43.0772394,141.3023236,17z/data=!3m2!4b1!5s0x5f0b284e9687c23d:0xf356c764d06cdbc1!4m6!3m5!1s0x5f0b2912d75342b3:0x9e4c2c22bfb856ef!8m2!3d43.0772394!4d141.3048985!16s%2Fg%2F11jgjck67q?entry=ttu"
+  },
+  {
+    "id": "concafe:36443",
+    "name": "男装コンカフェ アステラリア〜星から来た王子様〜",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目 第3グリーンビル5F",
+    "lat": 43.0554178,
+    "lng": 141.3544573,
+    "tags": [
+      "男装",
+      "王子"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36443",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0804",
+    "phone": "090-7644-5327",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "tuesday",
+        "open": "19:00",
+        "close": "02:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "19:00",
+        "close": "02:00"
+      },
+      {
+        "day": "thursday",
+        "open": "19:00",
+        "close": "02:00"
+      },
+      {
+        "day": "friday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "saturday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "sunday",
+        "open": "19:00",
+        "close": "23:30"
+      },
+      {
+        "day": "holiday",
+        "open": "19:00",
+        "close": "02:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "19:00",
+        "close": "02:00"
+      }
+    ],
+    "holidays": [
+      "月曜日"
+    ],
+    "sns": {
+      "x": "https://x.com/butlershangrila?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Escreen-name%3Abutlershangrila%7Ctwcon%5Es1_c1",
+      "tiktok": "https://www.tiktok.com/@kesiguclg78",
+      "web": "https://shituji.info/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/search/%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%974%E6%9D%A1%E8%A5%BF3%E4%B8%81%E7%9B%AE+%E7%AC%AC3%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%93%E3%83%AB/@43.055399,141.3520498,17z?entry=ttu"
+  },
+  {
+    "id": "concafe:36444",
+    "name": "ナチュラリア札幌店",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南3条西2丁目15-1",
+    "lat": 43.05737930000001,
+    "lng": 141.3552854,
+    "tags": [
+      "すっぴん"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36444",
+    "updatedAt": 1761094631,
+    "postalCode": "060-0063",
+    "phone": "011-213-0469",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "00:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "18:00",
+        "close": "00:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "00:00"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "00:00"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "00:00"
+      },
+      {
+        "day": "saturday",
+        "open": "15:00",
+        "close": "00:00"
+      },
+      {
+        "day": "sunday",
+        "open": "15:00",
+        "close": "00:00"
+      },
+      {
+        "day": "holiday",
+        "open": "18:00",
+        "close": "00:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "18:00",
+        "close": "00:00"
+      }
+    ],
+    "sns": {
+      "x": "https://x.com/naturalia_s",
+      "web": "https://s-naturalia.com/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/NATURALIA%E6%9C%AD%E5%B9%8C%E2%88%92%E3%82%AB%E3%83%95%E3%82%A7%E2%88%92%E3%83%90%E3%83%BC/@43.0573792,141.3514305,17z/data=!3m1!5s0x5f0b29839de9b031:0x6cd950beec52bf9e!4m16!1m9!3m8!1s0x5f0b29839dc27327:0x10ece7d23fff7577!2z44CSMDYwLTAwNjMg5YyX5rW36YGT5pyt5bmM5biC5Lit5aSu5Yy65Y2X77yT5p2h6KW_77yS5LiB55uu77yR77yV4oiS77yRIE7jg7vjg7TjgqPjgrPjg60!3b1!8m2!3d43.0573793!4d141.3552854!10e3!16s%2Fg%2F11ddyyc_dp!3m5!1s0x5f0b2983900c6b93:0x9c06038fceb790bb!8m2!3d43.0574006!4d141.3552582!16s%2Fg%2F11c3tfv_hl?entry=ttu"
+  },
+  {
+    "id": "concafe:36445",
+    "name": "旧聖月教会～セントルナ～",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目1-1 第3グリーンビル4F",
+    "lat": 43.0554178,
+    "lng": 141.3544573,
+    "tags": [
+      "シスター",
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36445",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0804",
+    "phone": "080-8733-7977",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "saturday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "sunday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "holiday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "18:00",
+        "close": "06:00"
+      }
+    ],
+    "sns": {
+      "x": "https://x.com/S_Luna_concafe"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E7%AC%AC3%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%93%E3%83%AB/@43.0553931,141.3520451,17z/data=!3m1!5s0x5f0b29843c3329f7:0x3115c7b219d8daa5!4m10!1m2!2m1!1z5pyt5bmM5biC5Lit5aSu5Yy65Y2XNOadoeilvzPkuIHnm64g56ysM"
+  },
+  {
+    "id": "concafe:36455",
+    "name": "セルフィーユ",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目1-1 第3グリーンビル6F",
+    "lat": 43.0554178,
+    "lng": 141.3544573,
+    "tags": [
+      "居酒屋"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36455",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0804",
+    "phone": "070-8940-5656",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "05:30"
+      },
+      {
+        "day": "tuesday",
+        "open": "18:00",
+        "close": "05:30"
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "05:30"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "05:30"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "05:30"
+      },
+      {
+        "day": "saturday",
+        "open": "18:00",
+        "close": "05:30"
+      },
+      {
+        "day": "sunday",
+        "open": "18:00",
+        "close": "05:30"
+      },
+      {
+        "day": "holiday",
+        "open": "18:00",
+        "close": "05:30"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "18:00",
+        "close": "05:30"
+      }
+    ],
+    "holidays": [
+      "不定休なので、ご来店の際は店舗へご確認ください。"
+    ],
+    "sns": {
+      "x": "https://x.com/selfi_yu",
+      "web": "https://selfi-yu.com/about/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E7%AC%AC3%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%93%E3%83%AB/@43.0553931,141.3520451,17z/data=!3m1!5s0x5f0b29843c3329f7:0x3115c7b219d8daa5!4m10!1m2!2m1!1z5pyt5bmM5biC5Lit5aSu5Yy65Y2XNOadoeilvzPkuIHnm64g56ysM-OCsOODquODvOODs-ODk-ODqw!3m6!1s0x5f0b292724da51dd:0x12c1c3cc02a93bb0!8m2!3d43.0554333!4d141.3544384!15sCjrmnK3luYzluILkuK3lpK7ljLrljZc05p2h6KW_M-S4geebriDnrKwz44Kw44Oq44O844Oz44OT44OrkgEQdGVuYW50X293bmVyc2hpcOABAA!16s%2Fg%2F11lx3959gk?entry=ttu"
+  },
+  {
+    "id": "concafe:36456",
+    "name": "ばぶちゃんずらんど",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目1-1 第3グリーンビル7F",
+    "lat": 43.0554178,
+    "lng": 141.3544573,
+    "tags": [
+      "ロリ",
+      "女児服"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36456",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0804",
+    "phone": "090-5985-0515",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "saturday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "sunday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "holiday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "18:00",
+        "close": "06:00"
+      }
+    ],
+    "holidays": [
+      "不定休のため、ご来店の際は店舗へご確認ください。"
+    ],
+    "sns": {
+      "x": "https://x.com/BABUc_concafe"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/search/%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%974%E6%9D%A1%E8%A5%BF3%E4%B8%81%E7%9B%AE+%E7%AC%AC3%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%93%E3%83%AB/@43.0552786,141.3520751,17.34z?entry=ttu"
+  },
+  {
+    "id": "concafe:36457",
+    "name": "Le.Chloe",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南6条西3丁目6-6 ネクストビルB1F",
+    "lat": 43.05384189999999,
+    "lng": 141.3542509,
+    "tags": [
+      "お姫様",
+      "ゴースト"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36457",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0806",
+    "phone": "090-8495-0631",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "17:00",
+        "close": "05:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "17:00",
+        "close": "05:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "17:00",
+        "close": "05:00"
+      },
+      {
+        "day": "thursday",
+        "open": "17:00",
+        "close": "05:00"
+      },
+      {
+        "day": "friday",
+        "open": "17:00",
+        "close": "05:00"
+      },
+      {
+        "day": "saturday",
+        "open": "17:00",
+        "close": "05:00"
+      },
+      {
+        "day": "sunday",
+        "open": "17:00",
+        "close": "05:00"
+      },
+      {
+        "day": "holiday",
+        "open": "17:00",
+        "close": "05:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "17:00",
+        "close": "05:00"
+      }
+    ],
+    "holidays": [
+      "不定休のため、ご来店の際は店舗にご確認ください。"
+    ],
+    "sns": {
+      "x": "https://x.com/chloe_of_ghost",
+      "instagram": "https://www.instagram.com/chloe.susukino.cafe.bar/",
+      "tiktok": "https://www.tiktok.com/@chloe.susukino"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/Chlo%C3%A9+of+ghost%EF%BC%88%E3%82%AF%E3%83%AD%E3%82%A8%EF%BC%89/@43.0538319,141.3521029,17z/data=!3m1!5s0x5f0b29867d472791:0xf8552d68b9d6040c!4m9!1m2!2m1!1z5pyt5bmM5biC5Lit5aSu5Yy65Y2XNuadoeilvzPkuIHnm642LTYg44ON44Kv44K544OI44OT44Or!3m5!1s0x5f0b29006ee05afb:0xf9ef82f964e9c653!8m2!3d43.0538383!4d141.35425!16s%2Fg%2F11vyhx_fz5?entry=ttu"
+  },
+  {
+    "id": "concafe:36458",
+    "name": "アニソンバーX 札幌",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南6条西4丁目5-33 G4ビル3F",
+    "lat": 43.053577,
+    "lng": 141.3535613,
+    "tags": [
+      "アニソン",
+      "コスプレ"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36458",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0806",
+    "phone": "011-252-7497",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "23:30"
+      },
+      {
+        "day": "tuesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "23:30"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "23:30"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "01:00"
+      },
+      {
+        "day": "saturday",
+        "open": "14:00",
+        "close": "23:30"
+      },
+      {
+        "day": "sunday",
+        "open": "14:00",
+        "close": "23:30"
+      },
+      {
+        "day": "holiday",
+        "open": "18:00",
+        "close": "23:30"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "18:00",
+        "close": "23:30"
+      }
+    ],
+    "holidays": [
+      "火曜日"
+    ],
+    "sns": {
+      "x": "https://x.com/anisonbarX",
+      "tiktok": "https://www.tiktok.com/@anisonbarx",
+      "youtube": "https://www.youtube.com/channel/UChky6ZYKWRtFXCK2fwVvwfg",
+      "web": "https://anisonbar-x.com/page/2/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%80%92064-0806+%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%EF%BC%96%E6%9D%A1%E8%A5%BF%EF%BC%94%E4%B8%81%E7%9B%AE%EF%BC%95%E2%88%92%EF%BC%93%EF%BC%93+G4%E3%83%93%E3%83%AB/@43.0535845,141.3538755,17z/data=!4m15!1m8!3m7!1s0x5f0b29867008c0f1:0xad5f86efbfbefd1a!2z44CSMDY0LTA4MDYg5YyX5rW36YGT5pyt5bmM5biC5Lit5aSu5Yy65Y2X77yW5p2h6KW_77yU5LiB55uu77yV4oiS77yT77yTIEc044OT44Or!3b1!8m2!3d43.053577!4d141.3535613!16s%2Fg%2F11g6ytf6ll!3m5!1s0x5f0b29867008c0f1:0xad5f86efbfbefd1a!8m2!3d43.053577!4d141.3535613!16s%2Fg%2F11g6ytf6ll?entry=ttu"
+  },
+  {
+    "id": "concafe:36459",
+    "name": "メイドカフェsnowdrop",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目 第3グリーンビル5F マジックバーミラクル店内",
+    "lat": 43.05551699999999,
+    "lng": 141.3542302,
+    "tags": [
+      "メイド",
+      "個性派"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36459",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0804",
+    "phone": "090-6445-9028",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "tuesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "wednesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "thursday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "friday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "saturday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "pre_holiday",
+        "open": null,
+        "close": null
+      }
+    ],
+    "holidays": [
+      "不定期営業のため、ご来店の際は公式HP・Xで営業日・営業時間をご確認いただくか、店舗に電話にてお問合せの上ご来店ください。"
+    ],
+    "sns": {
+      "x": "https://x.com/snow_drop2024",
+      "web": "https://maidecafe.com/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%90%E3%83%BC+%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB+%E6%9C%AD%E5%B9%8C%E3%81%99%E3%81%99%E3%81%8D%E3%81%AE%E5%BA%97/@43.0554178,141.3518825,17z/data=!3m1!5s0x5f0b29843c3329f7:0xec8549c7205fde4e!4m16!1m9!3m8!1s0x5f0b29841649b49d:0x862f53d9dad3275!2z44CSMDY0LTA4MDQg5YyX5rW36YGT5pyt5bmM5biC5Lit5aSu5Yy65Y2X77yU5p2h6KW_77yT5LiB55uu77yR4oiS77yRIOesrO-8k-OCsOODquODvOODs-ODk-ODqw!3b1!8m2!3d43.0554178!4d141.3544574!10e3!16s%2Fg%2F12hqkc3dm!3m5!1s0x5f0b29ab7f50a7c1:0xf9a6457c3331e9af!8m2!3d43.055517!4d141.3542302!16s%2Fg%2F11rsnvbhq1?entry=ttu"
+  },
+  {
+    "id": "concafe:36460",
+    "name": "SAKURA Bacchus",
+    "area": "札幌・すすきの",
+    "address": "",
+    "lat": null,
+    "lng": null,
+    "tags": [
+      "ギャル"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list",
+    "updatedAt": 1761094631,
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "tuesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "wednesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "thursday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "friday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "saturday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "pre_holiday",
+        "open": null,
+        "close": null
+      }
+    ]
+  },
+  {
+    "id": "concafe:36461",
+    "name": "デイジードールカフェ",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市北区麻生町4丁目12-6 LC麻生館2F",
+    "lat": 43.1107068,
+    "lng": 141.3387334,
+    "tags": [
+      "アメリカン",
+      "コミック"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36461",
+    "updatedAt": 1761094631,
+    "postalCode": "001-0045",
+    "phone": "090-3891-6633",
+    "nearestStations": [
+      "札幌市営地下鉄南北線/麻生駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "19:00",
+        "close": "03:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "19:00",
+        "close": "03:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "19:00",
+        "close": "03:00"
+      },
+      {
+        "day": "thursday",
+        "open": "19:00",
+        "close": "03:00"
+      },
+      {
+        "day": "friday",
+        "open": "19:00",
+        "close": "03:00"
+      },
+      {
+        "day": "saturday",
+        "open": "19:00",
+        "close": "03:00"
+      },
+      {
+        "day": "sunday",
+        "open": "19:00",
+        "close": "03:00"
+      },
+      {
+        "day": "holiday",
+        "open": "19:00",
+        "close": "03:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "19:00",
+        "close": "03:00"
+      }
+    ],
+    "holidays": [
+      "不定休のため店舗の方にご確認ください。"
+    ],
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%EF%BC%AC%EF%BC%A3%E9%BA%BB%E7%94%9F%E9%A4%A8/@43.1107068,141.3361585,17z/data=!3m1!5s0x5f0b28b734f2c309:0x4a8928572df0777d!4m15!1m8!3m7!1s0x5f0b29d81572a809:0x2800dc29c83e2aef!2z77ys77yj6bq755Sf6aSo!8m2!3d43.1107068!4d141.3387334!10e3!16s%2Fg%2F11q9rl9zlz!3m5!1s0x5f0b29d81572a809:0x2800dc29c83e2aef!8m2!3d43.1107068!4d141.3387334!16s%2Fg%2F11q9rl9zlz?entry=ttu"
+  },
+  {
+    "id": "concafe:36471",
+    "name": "北24条メイドカフェおひさまプレイス",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市北区北24条西4丁目1-11 第2タイガービル2F",
+    "lat": 43.0908331,
+    "lng": 141.3438303,
+    "tags": [
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36471",
+    "updatedAt": 1761094631,
+    "postalCode": "001-0024",
+    "phone": "080-6072-4826",
+    "nearestStations": [
+      "札幌市営地下鉄南北線/北24条駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "saturday",
+        "open": "18:00",
+        "close": "06:00"
+      },
+      {
+        "day": "sunday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "holiday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "18:00",
+        "close": "23:00"
+      }
+    ],
+    "sns": {
+      "x": "https://x.com/24ohisamaplace?s=20"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%80%92001-0024+%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E5%8C%97%E5%8C%BA%E5%8C%97%EF%BC%92%EF%BC%94%E6%9D%A1%E8%A5%BF%EF%BC%94%E4%B8%81%E7%9B%AE%EF%BC%91%E2%88%92%EF%BC%91%EF%BC%91+%E7%AC%AC%EF%BC%92%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%83%93%E3%83%AB/@43.0908331,141.3412554,17z/data=!3m1!4b1!4m6!3m5!1s0x5f0b28e0de4d9d97:0x14dbfb9237e1a5ce!8m2!3d43.0908331!4d141.3438303!16s%2Fg%2F12hm4llgb?entry=ttu"
+  },
+  {
+    "id": "concafe:36472",
+    "name": "てでぃHOLIC",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市西区琴似2条3丁目1-10 共栄ビル2F",
+    "lat": 43.07752809999999,
+    "lng": 141.3042534,
+    "tags": [
+      "くま",
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36472",
+    "updatedAt": 1761094631,
+    "postalCode": "063-0812",
+    "phone": "011-699-6882",
+    "nearestStations": [
+      "札幌市営地下鉄東西線/琴似駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "thursday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "friday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "saturday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "sunday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "holiday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "20:00",
+        "close": "00:00"
+      }
+    ],
+    "holidays": [
+      "基本定休日無しですが、たまに不定期での休業があります。",
+      "また、日によっては翌3時まで営業しておりますので、ご確認の際は店舗にお問い合わせください。"
+    ],
+    "sns": {
+      "x": "https://x.com/teddyholi",
+      "web": "https://lit.link/holicTeddy"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E5%85%B1%E6%A0%84%E3%83%93%E3%83%AB/@43.0775453,141.3017521,17z/data=!3m1!5s0x5f0b284ebffb834d:0xb3ecb8498e16d19a!4m7!3m6!1s0x5f0b297b84662241:0xb5dc6c9669efccee!8m2!3d43.0775453!4d141.3042221!10e3!16s%2Fg%2F11sqhxg0h7?entry=ttu"
+  },
+  {
+    "id": "concafe:36473",
+    "name": "ススキノフィールド北海道",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西3丁目10 ニューすゝきのビル9F",
+    "lat": 43.054611,
+    "lng": 141.3542054,
+    "tags": [
+      "スポーツ",
+      "ガールズバー"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36473",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "phone": "011-211-6336",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "tuesday",
+        "open": "17:30",
+        "close": "00:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "17:30",
+        "close": "00:00"
+      },
+      {
+        "day": "thursday",
+        "open": "17:30",
+        "close": "00:00"
+      },
+      {
+        "day": "friday",
+        "open": "17:30",
+        "close": "00:00"
+      },
+      {
+        "day": "saturday",
+        "open": "17:30",
+        "close": "00:00"
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": "17:30",
+        "close": "00:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "17:30",
+        "close": "00:00"
+      }
+    ],
+    "holidays": [
+      "日曜日・月曜日",
+      "基本的にシーズン中（4～10月）の営業になります"
+    ],
+    "sns": {
+      "x": "https://x.com/susukinofhkd",
+      "web": "https://susukinofhkd.com/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%82%B9%E3%82%B9%E3%82%AD%E3%83%8E%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E5%8C%97%E6%B5%B7%E9%81%93/@43.0546504,141.3516063,17z/data=!4m10!1m2!2m1!1z44OL44Ol44O844GZ44Kd44GN44Gu44OT44OrOUY!3m6!1s0x5f0b29dcf8c3de73:0x5287119886a2ae02!8m2!3d43.0546899!4d141.354157!15sCh3jg4vjg6Xjg7zjgZnjgp3jgY3jga7jg5Pjg6s5RlokIiLjg4vjg6Xjg7wg44GZ44KdIOOBjSDjga4g44OT44OrIDlmkgEKc3BvcnRzX2JhcuABAA!16s%2Fg%2F11l60vfk6b?entry=ttu"
+  },
+  {
+    "id": "concafe:36475",
+    "name": "特撮アニソンバーツインテール札幌",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西3丁目 ニューすすきのビル9F",
+    "lat": 43.0547235,
+    "lng": 141.3541876,
+    "tags": [
+      "アニソン",
+      "コスプレ",
+      "ボーカロイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36475",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "phone": "011-211-6336",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "tuesday",
+        "open": "20:00",
+        "close": "02:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "20:00",
+        "close": "02:00"
+      },
+      {
+        "day": "thursday",
+        "open": "20:00",
+        "close": "02:00"
+      },
+      {
+        "day": "friday",
+        "open": "20:00",
+        "close": "03:00"
+      },
+      {
+        "day": "saturday",
+        "open": "20:00",
+        "close": "03:00"
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": "20:00",
+        "close": "02:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "20:00",
+        "close": "02:00"
+      }
+    ],
+    "holidays": [
+      "日曜日・月曜日"
+    ],
+    "sns": {
+      "x": "https://x.com/clustersapporo",
+      "web": "https://twintailsapporoclusterside.dreamlog.jp/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%83%8B%E3%83%A5%E3%83%BC%E3%81%99%E3%82%9D%E3%81%8D%E3%81%AE%E3%83%93%E3%83%AB/@43.054611,141.3516306,17z/data=!3m1!4b1!4m6!3m5!1s0x5f0b291f8d454159:0xef6bdc1653dfc153!8m2!3d43.054611!4d141.3542055!16s%2Fg%2F11p65ql0s3?entry=ttu"
+  },
+  {
+    "id": "concafe:36476",
+    "name": "すすきのゴルフクラブ～サイバーシティコース～",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西2丁目2 サイバーシティビルB1F",
+    "lat": 43.0544105,
+    "lng": 141.3559874,
+    "tags": [
+      "ゲーム",
+      "スポーツ"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36476",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "phone": "011-596-9372",
+    "nearestStations": [
+      "札幌市営地下鉄東西線/豊水すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "saturday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "sunday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "holiday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "18:00",
+        "close": "04:00"
+      }
+    ],
+    "sns": {
+      "instagram": "https://www.instagram.com/susukino_golf_cyber",
+      "tiktok": "https://www.tiktok.com/@susukino_golf_cyber",
+      "web": "https://susukinogolfclub.com/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%81%99%E3%81%99%E3%81%8D%E3%81%AE%E3%82%B4%E3%83%AB%E3%83%95%E3%82%AF%E3%83%A9%E3%83%96%EF%BD%9E%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B7%E3%83%86%E3%82%A3%E3%82%B3%E3%83%BC%E3%82%B9%EF%BD%9E/@43.0544105,141.3534125,17z/data=!3m1!5s0x5f0b2986bd5cd77f:0xbe1075b14969101e!4m16!1m9!3m8!1s0x5f0b2986bd67f1ab:0xd9817469b637a23e!2z44CSMDY0LTA4MDUg5YyX5rW36YGT5pyt5bmM5biC5Lit5aSu5Yy65Y2X77yV5p2h6KW_77yS5LiB55uu77ySIOOCteOCpOODkOODvOOCt-ODhuOCo-ODk-ODqw!3b1!8m2!3d43.0544105!4d141.3559874!10e3!16s%2Fg%2F12hlnrd24!3m5!1s0x5f0b29005d88cc6d:0x8b7a4404bd6e4e52!8m2!3d43.0543966!4d141.3560245!16s%2Fg%2F11y2fqj58x?entry=ttu"
+  },
+  {
+    "id": "concafe:36477",
+    "name": "Leaf change",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目1-1 第3グリーンビル",
+    "lat": 43.0554178,
+    "lng": 141.3544573,
+    "tags": [
+      "メイド",
+      "動物"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36477",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0804",
+    "phone": "090-6524-0429",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "01:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "18:00",
+        "close": "01:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "01:00"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "01:00"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "01:00"
+      },
+      {
+        "day": "saturday",
+        "open": "18:00",
+        "close": "01:00"
+      },
+      {
+        "day": "sunday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "holiday",
+        "open": "18:00",
+        "close": "01:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "18:00",
+        "close": "01:00"
+      }
+    ],
+    "holidays": [
+      "不定休のため、Xにてご確認ください。"
+    ],
+    "sns": {
+      "x": "https://x.com/Leaf_change1224"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E7%AC%AC3%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%93%E3%83%AB/@43.0554333,141.3518635,17z/data=!3m2!4b1!5s0x5f0b29843c3329f7:0x3115c7b219d8daa5!4m6!3m5!1s0x5f0b292724da51dd:0x12c1c3cc02a93bb0!8m2!3d43.0554333!4d141.3544384!16s%2Fg%2F11lx3959gk?entry=ttu"
+  },
+  {
+    "id": "concafe:36478",
+    "name": "琴似メイドカフェおかえりSweetHome",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市西区琴似1条3丁目3-7 TM-23ビル3F",
+    "lat": 43.0772394,
+    "lng": 141.3048985,
+    "tags": [
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36478",
+    "updatedAt": 1761094631,
+    "postalCode": "063-0811",
+    "phone": "080-6072-4826",
+    "nearestStations": [
+      "札幌市営地下鉄東西線/琴似駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "saturday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "sunday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "holiday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "18:00",
+        "close": "23:00"
+      }
+    ],
+    "sns": {
+      "x": "https://x.com/Okaerish_KOTONI",
+      "web": "https://maidcafe-ap.com/affiliate/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E7%90%B4%E4%BC%BC%E3%83%A1%E3%82%A4%E3%83%89%E3%82%AB%E3%83%95%E3%82%A7%E3%81%8A%E3%81%8B%E3%81%88%E3%82%8ASweetHome/@43.0772394,141.3023236,17z/data=!3m1!5s0x5f0b284e9687c23d:0xbb32baa6518ffa9f!4m15!1m8!3m7!1s0x5f0b2912d75342b3:0x9e4c2c22bfb856ef!2zVG0gMjPjg5Pjg6sy6ZqO!8m2!3d43.0772394!4d141.3048985!10e3!16s%2Fg%2F11jgjck67q!3m5!1s0x5f0b29c573326e07:0x6ab3edbe426fe58f!8m2!3d43.0772394!4d141.3048985!16s%2Fg%2F11s82vthzz?entry=ttu"
+  },
+  {
+    "id": "concafe:36479",
+    "name": "CK one",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西2丁目 中銀すすきのソシアビル7F",
+    "lat": 43.05447239999999,
+    "lng": 141.3564697,
+    "tags": [
+      "清楚"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36479",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "phone": "080-1787-8753",
+    "nearestStations": [
+      "札幌市営地下鉄東西線/豊水すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "20:00",
+        "close": "01:30"
+      },
+      {
+        "day": "tuesday",
+        "open": "20:00",
+        "close": "01:30"
+      },
+      {
+        "day": "wednesday",
+        "open": "20:00",
+        "close": "01:30"
+      },
+      {
+        "day": "thursday",
+        "open": "20:00",
+        "close": "01:30"
+      },
+      {
+        "day": "friday",
+        "open": "20:00",
+        "close": "01:30"
+      },
+      {
+        "day": "saturday",
+        "open": "20:00",
+        "close": "01:30"
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": "20:00",
+        "close": "01:30"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "20:00",
+        "close": "01:30"
+      }
+    ],
+    "holidays": [
+      "日曜日"
+    ],
+    "sns": {
+      "x": "https://x.com/rupa_cafebar"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E4%B8%AD%E9%8A%80%E3%81%99%E3%81%99%E3%81%8D%E3%81%AE%E3%82%BD%E3%82%B7%E3%82%A2%E3%83%AB%E3%83%93%E3%83%AB/@43.0544724,141.3538949,17z/data=!3m1!5s0x5f0b2986bc7555c9:0x685f5d3740659c14!4m7!3m6!1s0x5f0b29ce5c276663:0x442298472580afcf!8m2!3d43.0544724!4d141.3564698!10e3!16s%2Fg%2F11pf6b_2_r?entry=ttu"
+  },
+  {
+    "id": "concafe:36487",
+    "name": "KEIBA cafe&bar Ponytail",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南6条西6丁目7-2 ライオンビル太陽館",
+    "lat": 43.0532042,
+    "lng": 141.3503816,
+    "tags": [
+      "スポーツ",
+      "動物",
+      "競馬"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36487",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0806",
+    "phone": "070-8489-0242",
+    "nearestStations": [
+      "札幌市電山鼻線/東本願寺前駅・資生館小学校前駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "tuesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "wednesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "thursday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "friday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "saturday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "pre_holiday",
+        "open": null,
+        "close": null
+      }
+    ],
+    "holidays": [
+      "営業日時については店舗にお問い合わせください。"
+    ],
+    "sns": {
+      "x": "https://x.com/PonytailKeiba"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/KEIBA+cafe%26bar+Ponytail%EF%BC%88%E6%9C%AD%E5%B9%8C%E3%81%99%E3%81%99%E3%81%8D%E3%81%AE%E7%AB%B6%E9%A6%AC%E3%83%90%E3%83%BC%EF%BC%89/@43.0532042,141.3478067,17z/data=!3m1!5s0x5f0b298f55dddb69:0xdd78bea47efb7672!4m15!1m8!3m7!1s0x5f0b2985f8b19b77:0x6b1351393e759a81!2z44Op44Kk44Kq44Oz44OT44Or5aSq6Zm96aSo!8m2!3d43.0532042!4d141.3503816!10e3!16s%2Fg%2F11fcs3_tcn!3m5!1s0x5f0b296d931e67bf:0x68ad30ec4ee5845f!8m2!3d43.0532042!4d141.3503816!16s%2Fg%2F11t71jsqzr?entry=ttu"
+  },
+  {
+    "id": "concafe:36554",
+    "name": "日本酒&アニメBar巡舞Voyage",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南6条西3丁目6-24-2 第2桂和ビル2F14号",
+    "lat": 43.0536585,
+    "lng": 141.3550636,
+    "tags": [
+      "アニメ",
+      "ゲーム"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36554",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0806",
+    "phone": "070-8932-5480",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "19:00",
+        "close": "04:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "19:00",
+        "close": "04:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "19:00",
+        "close": "04:00"
+      },
+      {
+        "day": "thursday",
+        "open": "19:00",
+        "close": "04:00"
+      },
+      {
+        "day": "friday",
+        "open": "19:00",
+        "close": "04:00"
+      },
+      {
+        "day": "saturday",
+        "open": "19:00",
+        "close": "04:00"
+      },
+      {
+        "day": "sunday",
+        "open": "19:00",
+        "close": "04:00"
+      },
+      {
+        "day": "holiday",
+        "open": "19:00",
+        "close": "04:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "19:00",
+        "close": "04:00"
+      }
+    ],
+    "holidays": [
+      "不定休のため店舗にご確認ください。"
+    ],
+    "sns": {
+      "x": "https://x.com/Junmai_voyage"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E6%97%A5%E6%9C%AC%E9%85%92%EF%BC%86%E3%82%A2%E3%83%8B%E3%83%A1Bar%E5%B7%A1%E8%88%9EVoyage/@43.0536617,141.3524747,17z/data=!3m1!5s0x5f0b2986f54a7f13:0x82b09ca5d7fd0d45!4m15!1m8!3m7!1s0x5f0b2959e7809ca3:0x40e641cc4c4e7b1e!2z56ys77yS5qGC5ZKM44OT44Or!8m2!3d43.0536617!4d141.3550496!10e3!16s%2Fg%2F11rk8zh203!3m5!1s0x5f0b295db35ab405:0xa2659e2641edc73b!8m2!3d43.0536585!4d141.3550636!16s%2Fg%2F11p0w67n34?entry=ttu"
+  },
+  {
+    "id": "concafe:36569",
+    "name": "AnkCrest（アンククレスト）",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南2条西1丁目（狸小路1丁目）　第2広和ビル3F",
+    "lat": 43.0578205,
+    "lng": 141.3563914,
+    "tags": [
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36569",
+    "updatedAt": 1761094631,
+    "postalCode": "060-0062",
+    "phone": "011-207-5630",
+    "nearestStations": [
+      "札幌市電/狸小路駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "16:00",
+        "close": "23:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "16:00",
+        "close": "23:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "16:00",
+        "close": "23:00"
+      },
+      {
+        "day": "thursday",
+        "open": "16:00",
+        "close": "23:00"
+      },
+      {
+        "day": "friday",
+        "open": "16:00",
+        "close": "03:00"
+      },
+      {
+        "day": "saturday",
+        "open": "16:00",
+        "close": "03:00"
+      },
+      {
+        "day": "sunday",
+        "open": "15:00",
+        "close": "23:00"
+      },
+      {
+        "day": "holiday",
+        "open": "15:00",
+        "close": "23:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "16:00",
+        "close": "03:00"
+      }
+    ],
+    "sns": {
+      "x": "https://x.com/ankcrest1989",
+      "web": "https://ankcrest.com/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%82%A2%E3%83%B3%E3%82%AF%E3%82%AF%E3%83%AC%E3%82%B9%E3%83%88/@43.0578205,141.3550829,18z/data=!4m15!1m8!3m7!1s0x5f0b2983a7c346cb:0x1d184630dbffc9c!2z44CSMDYwLTAwNjIg5YyX5rW36YGT5pyt5bmM5biC5Lit5aSu5Yy65Y2X77yS5p2h6KW_77yR5LiB55uuIOesrOS6jOW6g-WSjOODk-ODqw!3b1!8m2!3d43.0578205!4d141.3563914!16s%2Fg%2F12hlq236t!3m5!1s0x5f0b2982fe6746cb:0xebf4ad59527e868d!8m2!3d43.0578282!4d141.3564054!16s%2Fg%2F11r8qxzgr?entry=ttu"
+  },
+  {
+    "id": "concafe:36570",
+    "name": "執事喫茶 Café du NoahR",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3-1-1 第3グリーンビル6F",
+    "lat": 43.0554178,
+    "lng": 141.3544573,
+    "tags": [
+      "執事",
+      "男装"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36570",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0804",
+    "phone": "080-9619-8557",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "16:00",
+        "close": "01:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "16:00",
+        "close": "01:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "16:00",
+        "close": "01:00"
+      },
+      {
+        "day": "thursday",
+        "open": "16:00",
+        "close": "01:00"
+      },
+      {
+        "day": "friday",
+        "open": "16:00",
+        "close": "01:00"
+      },
+      {
+        "day": "saturday",
+        "open": "16:00",
+        "close": "01:00"
+      },
+      {
+        "day": "sunday",
+        "open": "16:00",
+        "close": "01:00"
+      },
+      {
+        "day": "holiday",
+        "open": "16:00",
+        "close": "01:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "16:00",
+        "close": "01:00"
+      }
+    ],
+    "sns": {
+      "x": "https://x.com/NoahR_Butler",
+      "instagram": "https://www.instagram.com/butlers.cafedunoahr/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E5%9F%B7%E4%BA%8B%E5%96%AB%E8%8C%B6Cafe%CC%81+du+NoahR/@43.0554178,141.3518825,17z/data=!3m1!5s0x5f0b29843c3329f7:0x57bda2004a1493f6!4m6!3m5!1s0x5f0b2942ff1445d3:0x78f8724ee57457d!8m2!3d43.0554019!4d141.3545198!16s%2Fg%2F11t4ynztf0?entry=ttu"
+  },
+  {
+    "id": "concafe:36572",
+    "name": "𝐃𝐨𝐥𝐥𝐲♡𝐏𝐫𝐢𝐧𝐜𝐞𝐬𝐬",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西5丁目21-3 第3旭観光ビル4F",
+    "lat": 43.0543646,
+    "lng": 141.3506367,
+    "tags": [
+      "お人形",
+      "お姫様"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36572",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "nearestStations": [
+      "札幌市電山鼻線/資生館小学校前駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "tuesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "wednesday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "thursday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "friday",
+        "open": "17:00",
+        "close": "06:00"
+      },
+      {
+        "day": "saturday",
+        "open": "17:00",
+        "close": "06:00"
+      },
+      {
+        "day": "sunday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "holiday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "17:00",
+        "close": "23:00"
+      }
+    ],
+    "holidays": [
+      "火曜日"
+    ],
+    "sns": {
+      "x": "https://x.com/Dolly_hime__",
+      "web": "https://doripuri.com/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%80%92064-0805+%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%EF%BC%95%E6%9D%A1%E8%A5%BF%EF%BC%95%E4%B8%81%E7%9B%AE%EF%BC%92%EF%BC%91%E2%88%92%EF%BC%93+%E7%AC%AC%EF%BC%93%E6%97%AD%E8%A6%B3%E5%85%89%E3%83%93%E3%83%AB+4f/@43.0543752,141.3480778,17z/data=!3m1!4b1!4m5!3m4!1s0x5f0b298594bbd2f7:0x3d761c09980b01e7!8m2!3d43.0543752!4d141.3506527?entry=ttu"
+  },
+  {
+    "id": "concafe:36573",
+    "name": "Alice cafe札幌",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西6丁目 ニュー桂和ビル5F",
+    "lat": 43.0541808,
+    "lng": 141.3501759,
+    "tags": [
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36573",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "nearestStations": [
+      "札幌市電山鼻線/資生館小学校前駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "16:00",
+        "close": "21:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "16:00",
+        "close": "21:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "16:00",
+        "close": "21:00"
+      },
+      {
+        "day": "thursday",
+        "open": "16:00",
+        "close": "21:00"
+      },
+      {
+        "day": "friday",
+        "open": "16:00",
+        "close": "21:00"
+      },
+      {
+        "day": "saturday",
+        "open": "14:00",
+        "close": "21:00"
+      },
+      {
+        "day": "sunday",
+        "open": "14:00",
+        "close": "21:00"
+      },
+      {
+        "day": "holiday",
+        "open": "16:00",
+        "close": "21:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "16:00",
+        "close": "21:00"
+      }
+    ],
+    "sns": {
+      "x": "https://x.com/AliceCafe_Maid",
+      "instagram": "https://www.instagram.com/alicecafe_maid/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%80%92064-0805+%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%EF%BC%95%E6%9D%A1%E8%A5%BF%EF%BC%96%E4%B8%81%E7%9B%AE%EF%BC%99%E2%88%92%EF%BC%93+%E3%83%8B%E3%83%A5%E3%83%BC%E6%A1%82%E5%92%8C%E3%83%93%E3%83%AB/@43.0541808,141.347601,16z/data=!4m7!3m6!1s0x5f0b29859290c62d:0x9782eaf150f77dc!8m2!3d43.0541808!4d141.3501759!10e3!16s%2Fg%2F12hp3r4my?entry=ttu"
+  },
+  {
+    "id": "concafe:36574",
+    "name": "巫女喫茶『秋葉亭』狸小路店",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南三条西6丁目3-3 ジャラン狸小路2F",
+    "lat": 43.0565538,
+    "lng": 141.348827,
+    "tags": [
+      "和風",
+      "巫女"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36574",
+    "updatedAt": 1761094631,
+    "postalCode": "060-0063",
+    "nearestStations": [
+      "札幌市電/狸小路駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "wednesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "thursday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "friday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "saturday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "sunday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "holiday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "17:00",
+        "close": "23:00"
+      }
+    ],
+    "holidays": [
+      "水・木曜日"
+    ],
+    "sns": {
+      "x": "https://x.com/akibatei_tanuki"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E5%B7%AB%E5%A5%B3%E5%96%AB%E8%8C%B6%E3%80%8E%E7%A7%8B%E8%91%89%E4%BA%AD%E3%80%8F%E7%8B%B8%E5%B0%8F%E8%B7%AF%E5%BA%97/@43.0561148,141.3441558,16.56z/data=!3m1!5s0x5f0b29853ae16431:0xbbd4e9bd30216581!4m9!1m2!2m1!1z44K444Oj44Op44Oz54u45bCP6Lev!3m5!1s0x5f0b29558be53395:0x1df36826f382d4f1!8m2!3d43.0565538!4d141.348827!16s%2Fg%2F11s_vxyyvc?entry=ttu"
+  },
+  {
+    "id": "concafe:36575",
+    "name": "Bar Regulus(レグルス)",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南五条西6丁目9-3 ニュー桂和ビル9F",
+    "lat": 43.0541808,
+    "lng": 141.3501759,
+    "tags": [
+      "コスプレ"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36575",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "nearestStations": [
+      "札幌市電山鼻線/資生館小学校前駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "tuesday",
+        "open": "19:00",
+        "close": "23:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "19:00",
+        "close": "23:00"
+      },
+      {
+        "day": "thursday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "friday",
+        "open": "19:00",
+        "close": "02:00"
+      },
+      {
+        "day": "saturday",
+        "open": "19:00",
+        "close": "02:00"
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "pre_holiday",
+        "open": null,
+        "close": null
+      }
+    ],
+    "holidays": [
+      "主に火・水・金・土曜日のみの営業となっております。詳しい営業日時は店舗Xにてご確認ください"
+    ],
+    "sns": {
+      "x": "https://x.com/BarRegulus",
+      "instagram": "https://www.instagram.com/bar.regulus/",
+      "web": "https://lit.link/barregulus"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/Bar+Regulus/@43.0541808,141.347601,17z/data=!3m1!5s0x5f0b2985ec5291f1:0xc1139aaa8b9cb961!4m16!1m9!3m8!1s0x5f0b29859290c62d:0x9782eaf150f77dc!2z44CSMDY0LTA4MDUg5YyX5rW36YGT5pyt5bmM5biC5Lit5aSu5Yy65Y2X77yV5p2h6KW_77yW5LiB55uu77yZ4oiS77yTIOODi-ODpeODvOahguWSjOODk-ODqw!3b1!8m2!3d43.0541808!4d141.3501759!10e3!16s%2Fg%2F12hp3r4my!3m5!1s0x5f0b29ba6528795f:0x49ad47c68eb03d40!8m2!3d43.0542599!4d141.3501463!16s%2Fg%2F11rb4qdccx?entry=ttu"
+  },
+  {
+    "id": "concafe:36666",
+    "name": "ダーツがーるずばー HUNTER HUNTER",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西6丁目9-3 ニュー桂和ビル3F",
+    "lat": 43.0541808,
+    "lng": 141.3501759,
+    "tags": [
+      "ゲーム"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36666",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "nearestStations": [
+      "札幌市電山鼻線/資生館小学校前駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "21:00",
+        "close": "05:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "21:00",
+        "close": "05:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "21:00",
+        "close": "05:00"
+      },
+      {
+        "day": "thursday",
+        "open": "21:00",
+        "close": "05:00"
+      },
+      {
+        "day": "friday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "saturday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "sunday",
+        "open": "21:00",
+        "close": "05:00"
+      },
+      {
+        "day": "holiday",
+        "open": "21:00",
+        "close": "05:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "21:00",
+        "close": "06:00"
+      }
+    ],
+    "sns": {
+      "x": "https://x.com/DARTSHUNTER",
+      "instagram": "https://www.instagram.com/dartsgirlsbar_hunter/",
+      "web": "http://1-peace.net/hunter/index.html"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/HUNTER+HUNTER/@43.0541808,141.347601,16z/data=!3m1!5s0x5f0b2985ec5291f1:0x13010220a26d66c6!4m16!1m9!3m8!1s0x5f0b29859290c62d:0x9782eaf150f77dc!2z44CSMDY0LTA4MDUg5YyX5rW36YGT5pyt5bmM5biC5Lit5aSu5Yy65Y2X77yV5p2h6KW_77yW5LiB55uu77yZ4oiS77yTIOODi-ODpeODvOahguWSjOODk-ODqw!3b1!8m2!3d43.0541808!4d141.3501759!10e3!16s%2Fg%2F12hp3r4my!3m5!1s0x5f0b2985928a1c23:0x8dbfc0805f7b4724!8m2!3d43.0541808!4d141.3501759!16s%2Fg%2F11csb1pxp0?entry=ttu"
+  },
+  {
+    "id": "concafe:36667",
+    "name": "BAR天空 ヘブンリィ",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南6条西3丁目 第2桂和ビル2F",
+    "lat": 43.0536585,
+    "lng": 141.3550636,
+    "tags": [
+      "居酒屋"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36667",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0806",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "thursday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "friday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "saturday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "sunday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "holiday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "21:00",
+        "close": "06:00"
+      }
+    ],
+    "sns": {
+      "x": "https://x.com/BAR_heavenly",
+      "instagram": "https://www.instagram.com/bar.heavenly/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E7%AC%AC%EF%BC%92%E6%A1%82%E5%92%8C%E3%83%93%E3%83%AB/@43.0536617,141.3524747,17z/data=!3m1!5s0x5f0b2986f54a7f13:0xae4f61e7a1b98c38!4m7!3m6!1s0x5f0b2959e7809ca3:0x40e641cc4c4e7b1e!8m2!3d43.0536617!4d141.3550496!10e3!16s%2Fg%2F11rk8zh203?entry=ttu"
+  },
+  {
+    "id": "concafe:36668",
+    "name": "KijitorA",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目1-1 第3グリーンビル6F",
+    "lat": 43.0554178,
+    "lng": 141.3544573,
+    "tags": [
+      "コスプレ"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36668",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0804",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "21:00",
+        "close": "03:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "21:00",
+        "close": "03:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "21:00",
+        "close": "03:00"
+      },
+      {
+        "day": "thursday",
+        "open": "21:00",
+        "close": "03:00"
+      },
+      {
+        "day": "friday",
+        "open": "21:00",
+        "close": "03:00"
+      },
+      {
+        "day": "saturday",
+        "open": "21:00",
+        "close": "03:00"
+      },
+      {
+        "day": "sunday",
+        "open": "21:00",
+        "close": "03:00"
+      },
+      {
+        "day": "holiday",
+        "open": "21:00",
+        "close": "03:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "21:00",
+        "close": "03:00"
+      }
+    ],
+    "holidays": [
+      "上記営業日時は一例です。詳細な営業日時は店舗SNSにてご確認ください。"
+    ],
+    "sns": {
+      "x": "https://x.com/kijitora2023"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%80%92064-0804+%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%EF%BC%94%E6%9D%A1%E8%A5%BF%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%91%E2%88%92%EF%BC%91+%E7%AC%AC%EF%BC%93%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%93%E3%83%AB/@43.0554178,141.3518825,17z/data=!4m7!3m6!1s0x5f0b29841649b49d:0x862f53d9dad3275!8m2!3d43.0554178!4d141.3544574!10e3!16s%2Fg%2F12hqkc3dm?entry=ttu"
+  },
+  {
+    "id": "concafe:36965",
+    "name": "アイドルメイドCafeま〜めいど",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南6条西4丁目2-1 ススキノ野口ビル6F",
+    "lat": 43.0528617,
+    "lng": 141.353197,
+    "tags": [
+      "アイドル",
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36965",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0806",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "saturday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "sunday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "holiday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "18:00",
+        "close": "23:00"
+      }
+    ],
+    "holidays": [
+      "年中無休"
+    ],
+    "sns": {
+      "x": "https://x.com/idol_mermaid"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%80%92064-0806+%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%EF%BC%96%E6%9D%A1%E8%A5%BF%EF%BC%94%E4%B8%81%E7%9B%AE%EF%BC%92%E2%88%92%EF%BC%91+%E3%82%B9%E3%82%B9%E3%82%AD%E3%83%8E%E9%87%8E%E5%8F%A3%E3%83%93%E3%83%AB/@43.0543572,141.3508667,17.18z/data=!4m6!3m5!1s0x5f0b298615a53771:0x9a2693901675ca5c!8m2!3d43.0528617!4d141.3531969!16s%2Fg%2F11dxmpn7z4?entry=ttu"
+  },
+  {
+    "id": "concafe:36966",
+    "name": "みんなの蒸気機関秘密基地 FeeL 札幌コンカフェ",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南6条西6 第6旭観光ビル7F",
+    "lat": 43.05304650000001,
+    "lng": 141.3504455,
+    "tags": [
+      "レトロ",
+      "機械人形"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36966",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0806",
+    "nearestStations": [
+      "札幌市電山鼻線/東本願寺前駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "11:00",
+        "close": "21:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "11:00",
+        "close": "21:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "11:00",
+        "close": "21:00"
+      },
+      {
+        "day": "thursday",
+        "open": "11:00",
+        "close": "21:00"
+      },
+      {
+        "day": "friday",
+        "open": "11:00",
+        "close": "21:00"
+      },
+      {
+        "day": "saturday",
+        "open": "11:00",
+        "close": "21:00"
+      },
+      {
+        "day": "sunday",
+        "open": "11:00",
+        "close": "21:00"
+      },
+      {
+        "day": "holiday",
+        "open": "11:00",
+        "close": "21:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "11:00",
+        "close": "21:00"
+      }
+    ],
+    "sns": {
+      "x": "https://x.com/feel7824"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%80%92064-0806+%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%EF%BC%96%E6%9D%A1%E8%A5%BF%EF%BC%96%E4%B8%81%E7%9B%AE%EF%BC%97%E2%88%92%EF%BC%91+%E7%AC%AC%EF%BC%96%E6%97%AD%E8%A6%B3%E5%85%89%E3%83%93%E3%83%AB/@43.0530465,141.3478706,17z/data=!3m1!4b1!4m6!3m5!1s0x5f0b298f54b9882d:0x11f76eeb7a8547af!8m2!3d43.0530465!4d141.3504455!16s%2Fg%2F12hklp9bv?entry=ttu"
+  },
+  {
+    "id": "concafe:36967",
+    "name": "札幌メイドシーシャあなくろ！",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西2丁目1-1 美松村岡ビル8F",
+    "lat": 43.0543482,
+    "lng": 141.3566687,
+    "tags": [
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36967",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "phone": "070-9120-5578",
+    "nearestStations": [
+      "札幌市営地下鉄東豊線/豊水すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "thursday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "friday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "saturday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "sunday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "holiday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "21:00",
+        "close": "06:00"
+      }
+    ],
+    "sns": {
+      "x": "https://x.com/anachro_maid",
+      "instagram": "https://www.instagram.com/anachro_maid/",
+      "tiktok": "https://www.tiktok.com/@anachro_maid?_t=8dcmLUlIGOY&_r=1"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%81%82%E3%81%AA%E3%81%8F%E3%82%8D%EF%BC%81/@43.0543482,141.3540938,17z/data=!3m1!5s0x5f0b28deca0048d9:0xfc0996b7401ce48d!4m10!1m2!2m1!1z5pyt5bmM5biC5Lit5aSu5Yy65Y2XNeadoeilvzLkuIHnm64xLTEg576O5p2-5p2R5bKh44OT44Or!3m6!1s0x5f0b295990049fa9:0x8da7416dd5f982c3!8m2!3d43.0543482!4d141.3566687!15sCjnmnK3luYzluILkuK3lpK7ljLrljZc15p2h6KW_MuS4geebrjEtMSDnvo7mnb7mnZHlsqHjg5Pjg6taSCJG5pyt5bmMIOW4giDkuK3lpK4g5Yy6IOWNlyA1IOadoSDopb8gMiDkuIHnm64gMSAxIOe-jiDmnb4g5p2R5bKhIOODk-ODq5IBA2JhcpoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSS2QzSmxaMWxuRUFF4AEA!16s%2Fg%2F11ss4vcqgl?entry=ttu"
+  },
+  {
+    "id": "concafe:36969",
+    "name": "ぐるぐるワンダーランド",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西4 第1グリーンビル5F",
+    "lat": 43.0552192,
+    "lng": 141.3537996,
+    "tags": [],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36969",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0804",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "04:00",
+        "close": "12:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "04:00",
+        "close": "12:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "04:00",
+        "close": "12:00"
+      },
+      {
+        "day": "thursday",
+        "open": "04:00",
+        "close": "12:00"
+      },
+      {
+        "day": "friday",
+        "open": "04:00",
+        "close": "12:00"
+      },
+      {
+        "day": "saturday",
+        "open": "04:00",
+        "close": "12:00"
+      },
+      {
+        "day": "sunday",
+        "open": "04:00",
+        "close": "12:00"
+      },
+      {
+        "day": "holiday",
+        "open": "04:00",
+        "close": "12:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "04:00",
+        "close": "12:00"
+      }
+    ],
+    "holidays": [
+      "営業時間は目安です。詳細な営業日時は店舗へお問い合わせください"
+    ],
+    "sns": {
+      "x": "https://x.com/ez0srfWbVn41958"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%80%92064-0804+%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%EF%BC%94%E6%9D%A1%E8%A5%BF4+%E7%AC%AC1%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%93%E3%83%AB/@43.0552192,141.3512247,17z/data=!3m1!4b1!4m6!3m5!1s0x5f0b29843bd93579:0x77d95728e7c5d0ea!8m2!3d43.0552192!4d141.3537996!16s%2Fg%2F11c705wbkw?entry=ttu"
+  },
+  {
+    "id": "concafe:36972",
+    "name": "札幌ニューレトロバー MIKADO",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南6条西3丁目1  ニューオリンピアビル4F",
+    "lat": 43.0530043,
+    "lng": 141.354221,
+    "tags": [
+      "レトロ"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36972",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0806",
+    "phone": "011-206-1680",
+    "nearestStations": [
+      "札幌市営地下鉄東豊線/豊水すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "20:00",
+        "close": "06:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "20:00",
+        "close": "06:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "20:00",
+        "close": "06:00"
+      },
+      {
+        "day": "thursday",
+        "open": "20:00",
+        "close": "06:00"
+      },
+      {
+        "day": "friday",
+        "open": "20:00",
+        "close": "06:00"
+      },
+      {
+        "day": "saturday",
+        "open": "20:00",
+        "close": "06:00"
+      },
+      {
+        "day": "sunday",
+        "open": "20:00",
+        "close": "06:00"
+      },
+      {
+        "day": "holiday",
+        "open": "20:00",
+        "close": "06:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "20:00",
+        "close": "06:00"
+      }
+    ],
+    "holidays": [
+      "不定休のため店舗にお問い合わせください。"
+    ],
+    "sns": {
+      "instagram": "https://www.instagram.com/mikado_bar_official/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E6%9C%AD%E5%B9%8C%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%88%E3%83%AD%E3%83%90%E3%83%BCMIKADO/@43.0530012,141.3516319,17z/data=!3m1!5s0x5f0b29865da6e2bd:0xb548b6b83429bec2!4m15!1m8!3m7!1s0x5f0b298642f8b983:0x5e863b70758f4ca0!2z44OL44Ol44O844Kq44Oq44Oz44OU44Ki44OT44Or!8m2!3d43.0530012!4d141.3542068!10e3!16s%2Fg%2F1ths94bn!3m5!1s0x5f0b2987e71d553b:0x94c60d198863b477!8m2!3d43.0530012!4d141.3542068!16s%2Fg%2F11px9k561v?entry=ttu"
+  },
+  {
+    "id": "concafe:36973",
+    "name": "Make U Cute(めいきゅ〜と)狸小路店",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南3条西6丁目3-3 ジャラン狸小路2F",
+    "lat": 43.0565538,
+    "lng": 141.348827,
+    "tags": [
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36973",
+    "updatedAt": 1761094631,
+    "postalCode": "060-0063",
+    "nearestStations": [
+      "札幌市電/狸小路駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "thursday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "friday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "saturday",
+        "open": "15:00",
+        "close": "23:00"
+      },
+      {
+        "day": "sunday",
+        "open": "15:00",
+        "close": "23:00"
+      },
+      {
+        "day": "holiday",
+        "open": "15:00",
+        "close": "23:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "17:00",
+        "close": "23:00"
+      }
+    ],
+    "sns": {
+      "x": "https://x.com/Make_U_Cute_t",
+      "web": "https://ring-o.co.jp/business/cafe/make-u-cute-%e7%8b%b8%e5%b0%8f%e8%b7%af%e5%ba%97"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%80%8E%E3%82%81%E3%81%84%E3%81%8D%E3%82%85%E3%80%9C%E3%81%A8%E3%80%8F%E7%8B%B8%E5%B0%8F%E8%B7%AF%E5%BA%97/@43.0565538,141.3462521,17z/data=!3m2!4b1!5s0x5f0b29853ae16431:0xbbd4e9bd30216581!4m6!3m5!1s0x5f0b2916e655fef7:0x58dfdbb706e371eb!8m2!3d43.0565538!4d141.348827!16s%2Fg%2F11pr3yxwy3?entry=ttu"
+  },
+  {
+    "id": "concafe:36974",
+    "name": "ジャージメイド 電脳♡部(でんのうらぶ)",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目1-1 第3グリーンビル6F",
+    "lat": 43.0554178,
+    "lng": 141.3544573,
+    "tags": [
+      "電脳"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36974",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0804",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "11:30",
+        "close": "22:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "11:30",
+        "close": "22:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "11:30",
+        "close": "22:00"
+      },
+      {
+        "day": "thursday",
+        "open": "11:30",
+        "close": "22:00"
+      },
+      {
+        "day": "friday",
+        "open": "11:30",
+        "close": "22:00"
+      },
+      {
+        "day": "saturday",
+        "open": "11:30",
+        "close": "06:00"
+      },
+      {
+        "day": "sunday",
+        "open": "11:30",
+        "close": "06:00"
+      },
+      {
+        "day": "holiday",
+        "open": "11:30",
+        "close": "22:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "11:30",
+        "close": "22:00"
+      }
+    ],
+    "holidays": [
+      "不定休のため店舗にお問い合わせください。"
+    ],
+    "sns": {
+      "x": "https://x.com/DENNOULOVE",
+      "tiktok": "https://www.tiktok.com/@dennoulove",
+      "web": "https://lit.link/DENNOULOVE"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E9%9B%BB%E8%84%B3%E2%99%A1%E9%83%A8/@43.0554333,141.3518635,17z/data=!3m2!4b1!5s0x5f0b29843c3329f7:0x57bda2004a1493f6!4m6!3m5!1s0x5f0b294bcfed35d9:0xd96bc6a526e61920!8m2!3d43.0554333!4d141.3544384!16s%2Fg%2F11s_zpvb27?entry=ttu"
+  },
+  {
+    "id": "concafe:36975",
+    "name": "あにめばーakibar",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目 第1グリーンビル7F",
+    "lat": 43.0554178,
+    "lng": 141.3544573,
+    "tags": [
+      "アニメ",
+      "コスプレ"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36975",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0804",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "20:00",
+        "close": "03:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "20:00",
+        "close": "03:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "20:00",
+        "close": "03:00"
+      },
+      {
+        "day": "thursday",
+        "open": "20:00",
+        "close": "03:00"
+      },
+      {
+        "day": "friday",
+        "open": "20:00",
+        "close": "03:00"
+      },
+      {
+        "day": "saturday",
+        "open": "20:00",
+        "close": "03:00"
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": "20:00",
+        "close": "03:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "20:00",
+        "close": "03:00"
+      }
+    ],
+    "holidays": [
+      "日曜日（月曜日が祝日の場合は日曜日に営業、翌月曜祝日が定休となります）"
+    ],
+    "sns": {
+      "x": "https://x.com/akibar_squad"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%90%E3%83%BC+akibar/@43.0548748,141.3530986,17.61z/data=!3m1!5s0x5f0b29843c3329f7:0xde0c137fbdc70e64!4m6!3m5!1s0x5f0b298413617dbb:0x7e4011dd09ff1010!8m2!3d43.0550646!4d141.3537398!16s%2Fg%2F11g9j7284_?entry=ttu"
+  },
+  {
+    "id": "concafe:36976",
+    "name": "アイドルCafe&Bar SIC",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南6条西3丁目6-6 第1ネクストビル5F",
+    "lat": 43.0535106,
+    "lng": 141.3546421,
+    "tags": [
+      "アイドル"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36976",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0806",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "thursday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "friday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "saturday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "sunday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "holiday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "20:00",
+        "close": "00:00"
+      }
+    ],
+    "sns": {
+      "x": "https://x.com/idolcafeSIC",
+      "web": "https://idolcafe-sic.com/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%ABCafe%26Bar+SIC/@43.0538974,141.3525626,17z/data=!3m2!4b1!5s0x5f0b298660fd2615:0x487365396091d260!4m6!3m5!1s0x5f0b294e4b049791:0x34c6a39f256144c!8m2!3d43.0538974!4d141.3542491!16s%2Fg%2F11rjw6sq_6?entry=ttu"
+  },
+  {
+    "id": "concafe:36977",
+    "name": "ル パラディ",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西2丁目1-5 中銀すすきのソシアルビル7F",
+    "lat": 43.05447239999999,
+    "lng": 141.3564697,
+    "tags": [
+      "清楚"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36977",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "nearestStations": [
+      "札幌市営地下鉄東豊線/豊水すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "thursday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "friday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "saturday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": "20:00",
+        "close": "00:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "20:00",
+        "close": "00:00"
+      }
+    ],
+    "holidays": [
+      "日曜日",
+      "営業時間は目安となります。詳細な営業時間は店舗へお問い合わせください。"
+    ],
+    "sns": {
+      "x": "https://x.com/rupa_cafebar"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E4%B8%AD%E9%8A%80%E3%81%99%E3%81%99%E3%81%8D%E3%81%AE%E3%82%BD%E3%82%B7%E3%82%A2%E3%83%AB%E3%83%93%E3%83%AB/@43.0547568,141.3546117,17.49z/data=!3m1!5s0x5f0b2986bc7555c9:0x685f5d3740659c14!4m15!1m8!3m7!1s0x5f0b29ce5c276663:0x442298472580afcf!2z5Lit6YqA44GZ44GZ44GN44Gu44K944K344Ki44Or44OT44Or!8m2!3d43.0544724!4d141.3564698!10e3!16s%2Fg%2F11pf6b_2_r!3m5!1s0x5f0b29ce5c276663:0x442298472580afcf!8m2!3d43.0544724!4d141.3564698!16s%2Fg%2F11pf6b_2_r?entry=ttu"
+  },
+  {
+    "id": "concafe:36978",
+    "name": "秘密結社黒薔薇団",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目1-1 第3グリーンビル7F",
+    "lat": 43.0554178,
+    "lng": 141.3544573,
+    "tags": [
+      "ゴシック",
+      "隠れ家"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36978",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0804",
+    "phone": "011-205-0633",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "20:00",
+        "close": null
+      },
+      {
+        "day": "tuesday",
+        "open": "20:00",
+        "close": null
+      },
+      {
+        "day": "wednesday",
+        "open": "20:00",
+        "close": null
+      },
+      {
+        "day": "thursday",
+        "open": "20:00",
+        "close": null
+      },
+      {
+        "day": "friday",
+        "open": "20:00",
+        "close": null
+      },
+      {
+        "day": "saturday",
+        "open": "20:00",
+        "close": null
+      },
+      {
+        "day": "sunday",
+        "open": "20:00",
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": "20:00",
+        "close": null
+      },
+      {
+        "day": "pre_holiday",
+        "open": "20:00",
+        "close": null
+      }
+    ],
+    "holidays": [
+      "閉店時間は店舗にお問い合わせください。"
+    ],
+    "sns": {
+      "x": "https://x.com/96baradan",
+      "instagram": "https://www.instagram.com/96baradan/",
+      "web": "https://black.rozengroup.jp/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E7%A7%98%E5%AF%86%E7%B5%90%E7%A4%BE+%E9%BB%92%E8%96%94%E8%96%87%E5%9B%A3/@43.0554783,141.3526624,17z/data=!3m2!4b1!5s0x5f0b29843c3329f7:0xde0c137fbdc70e64!4m6!3m5!1s0x5f0b292d5e321331:0x1bb7372c63422aec!8m2!3d43.0554783!4d141.3544958!16s%2Fg%2F11jyl589pp?entry=ttu"
+  },
+  {
+    "id": "concafe:36980",
+    "name": "猫耳ゴシックメイド喫茶【MERCI】",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西2丁目10-1 南4西2 ビル7F",
+    "lat": 43.0562872,
+    "lng": 141.3558649,
+    "tags": [
+      "ゴシック",
+      "メイド",
+      "猫"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36980",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0804",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "saturday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "sunday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "holiday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "18:00",
+        "close": "23:00"
+      }
+    ],
+    "holidays": [
+      "年中無休"
+    ],
+    "sns": {
+      "x": "https://x.com/merci_nekomimi",
+      "web": "https://merci-nekomimi.square.site/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E7%8C%AB%E8%80%B3%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E3%83%A1%E3%82%A4%E3%83%89%E5%96%AB%E8%8C%B6+MERCI/@43.0563272,141.3533392,16z/data=!3m2!4b1!5s0x5f0b2983f450a79d:0x9019155394f2fddf!4m6!3m5!1s0x5f0b29936f55e305:0x7165a5450bbe5854!8m2!3d43.0563272!4d141.3559141!16s%2Fg%2F11pd2k0jck?entry=ttu"
+  },
+  {
+    "id": "concafe:36981",
+    "name": "京都GirlsBarわんぴーす",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西6丁目9-3 ニュー桂和ビル6F",
+    "lat": 43.0541808,
+    "lng": 141.3501759,
+    "tags": [
+      "和風"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36981",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "nearestStations": [
+      "札幌市電山鼻線/資生館小学校前駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "20:00",
+        "close": "04:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "20:00",
+        "close": "04:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "20:00",
+        "close": "04:00"
+      },
+      {
+        "day": "thursday",
+        "open": "20:00",
+        "close": "04:00"
+      },
+      {
+        "day": "friday",
+        "open": "20:00",
+        "close": "05:00"
+      },
+      {
+        "day": "saturday",
+        "open": "20:00",
+        "close": "05:00"
+      },
+      {
+        "day": "sunday",
+        "open": "20:00",
+        "close": "04:00"
+      },
+      {
+        "day": "holiday",
+        "open": "20:00",
+        "close": "04:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "20:00",
+        "close": "05:00"
+      }
+    ],
+    "sns": {
+      "x": "https://x.com/kyoto1peace",
+      "instagram": "https://www.instagram.com/kyoto1peace/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%81%99%E3%81%99%E3%81%8D%E3%81%AE%E4%BA%AC%E9%83%BD%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%90%E3%83%BC%E3%82%8F%E3%82%93%E3%81%B4%E3%83%BC%E3%81%99/@43.0541808,141.347601,17z/data=!3m2!4b1!5s0x5f0b2985ec5291f1:0x8a575b23eb36011e!4m6!3m5!1s0x5f0b298592998143:0xdf5991caa5f2d126!8m2!3d43.0541808!4d141.3501759!16s%2Fg%2F1tj2hpl_?entry=ttu"
+  },
+  {
+    "id": "concafe:36984",
+    "name": "【閉店】Vampire cafe Blood Rose",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目1-1 第3グリーンビル6F",
+    "lat": 43.0554178,
+    "lng": 141.3544573,
+    "tags": [
+      "ヴァンパイア"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36984",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0804",
+    "phone": "011-590-6669",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "saturday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "sunday",
+        "open": "17:00",
+        "close": "04:00"
+      },
+      {
+        "day": "holiday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "18:00",
+        "close": "04:00"
+      }
+    ],
+    "holidays": [
+      "年中無休"
+    ],
+    "sns": {
+      "x": "https://x.com/BloodRose2022",
+      "instagram": "https://www.instagram.com/bloodrose.2022/?utm_medium=copy_link"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/Vampire+Cafe+Blood+Rose/@43.0554783,141.3519209,16z/data=!3m2!4b1!5s0x5f0b29843c3329f7:0x57bda2004a1493f6!4m6!3m5!1s0x5f0b2980eb948535:0xbc3acc81367332c3!8m2!3d43.0554783!4d141.3544958!16s%2Fg%2F11rpkpjmxw?entry=ttu"
+  },
+  {
+    "id": "concafe:36985",
+    "name": "あくあんじゅ",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西2丁目2 サイバーシティビル9F",
+    "lat": 43.0544105,
+    "lng": 141.3559874,
+    "tags": [
+      "天使"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36985",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "nearestStations": [
+      "札幌市営地下鉄東豊線/豊水すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "saturday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "sunday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "holiday",
+        "open": "18:00",
+        "close": "23:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "18:00",
+        "close": "23:00"
+      }
+    ],
+    "holidays": [
+      "不定休のため、店舗にお問い合わせください。"
+    ],
+    "sns": {
+      "x": "https://x.com/AQUAnge0701"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%80%92064-0805+%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%EF%BC%95%E6%9D%A1%E8%A5%BF%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%92+%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B7%E3%83%86%E3%82%A3%E3%83%93%E3%83%AB/@43.0544105,141.3534125,16z/data=!4m16!1m9!3m8!1s0x5f0b2986bd67f1ab:0xd9817469b637a23e!2z44CSMDY0LTA4MDUg5YyX5rW36YGT5pyt5bmM5biC5Lit5aSu5Yy65Y2X77yV5p2h6KW_77yS5LiB55uu77ySIOOCteOCpOODkOODvOOCt-ODhuOCo-ODk-ODqw!3b1!8m2!3d43.0544105!4d141.3559874!10e3!16s%2Fg%2F12hlnrd24!3m5!1s0x5f0b2986bd67f1ab:0xd9817469b637a23e!8m2!3d43.0544105!4d141.3559874!16s%2Fg%2F12hlnrd24?entry=ttu"
+  },
+  {
+    "id": "concafe:36986",
+    "name": "惣菜ガールズバー万福",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目3-1 第2グリーンビル7F",
+    "lat": 43.0554333,
+    "lng": 141.3544384,
+    "tags": [],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36986",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0804",
+    "phone": "011-215-0814",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "01:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "18:00",
+        "close": "01:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "01:00"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "01:00"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "02:00"
+      },
+      {
+        "day": "saturday",
+        "open": "18:00",
+        "close": "02:00"
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": "18:00",
+        "close": "01:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "18:00",
+        "close": "01:00"
+      }
+    ],
+    "holidays": [
+      "日曜日",
+      "この他不定休あり。店舗の方にご確認ください。"
+    ],
+    "sns": {
+      "x": "https://x.com/osake_manpuku",
+      "instagram": "https://www.instagram.com/osake.manpuku/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E6%83%A3%E8%8F%9C%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%90%E3%83%BC+%E4%B8%87%E7%A6%8F/@43.0554164,141.3515857,17.24z/data=!3m1!5s0x5f0b29843c3329f7:0xde0c137fbdc70e64!4m6!3m5!1s0x5f0b298416936d5d:0xe7ee2c74f2ac17a0!8m2!3d43.0554556!4d141.3538841!16s%2Fg%2F11c6s2nrkb?entry=ttu"
+  },
+  {
+    "id": "concafe:36987",
+    "name": "ロミオクロスジュリエッタ",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南3条西4丁目21-5 タカノビル3F",
+    "lat": 43.0567158,
+    "lng": 141.351684,
+    "tags": [
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36987",
+    "updatedAt": 1761094631,
+    "postalCode": "060-0063",
+    "phone": "011-222-0832",
+    "nearestStations": [
+      "札幌市電山鼻線/狸小路駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "17:00",
+        "close": "22:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "17:00",
+        "close": "22:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "17:00",
+        "close": "22:00"
+      },
+      {
+        "day": "thursday",
+        "open": "17:00",
+        "close": "22:00"
+      },
+      {
+        "day": "friday",
+        "open": "17:00",
+        "close": "06:00"
+      },
+      {
+        "day": "saturday",
+        "open": "17:00",
+        "close": "06:00"
+      },
+      {
+        "day": "sunday",
+        "open": "17:00",
+        "close": "06:00"
+      },
+      {
+        "day": "holiday",
+        "open": "17:00",
+        "close": "22:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "17:00",
+        "close": "06:00"
+      }
+    ],
+    "sns": {
+      "x": "https://x.com/RomeoxGiulietta"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%83%AD%E3%83%9F%E3%82%AA%E3%82%AF%E3%83%AD%E3%82%B9%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A8%E3%83%83%E3%82%BF/@43.0567018,141.3490831,17z/data=!3m1!4b1!4m6!3m5!1s0x5f0b2984ee3e061b:0xc071b1eadb43565d!8m2!3d43.0567018!4d141.351658!16s%2Fg%2F1vg_72jq?entry=ttu"
+  },
+  {
+    "id": "concafe:36988",
+    "name": "2ねん8くみ 札幌校",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南3条西5丁目1-1 ノルベサビルB1F",
+    "lat": 43.0561425,
+    "lng": 141.3509568,
+    "tags": [
+      "学校",
+      "制服"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36988",
+    "updatedAt": 1761094631,
+    "postalCode": "060-0063",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "15:00",
+        "close": "23:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "15:00",
+        "close": "23:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "15:00",
+        "close": "23:00"
+      },
+      {
+        "day": "thursday",
+        "open": "15:00",
+        "close": "23:00"
+      },
+      {
+        "day": "friday",
+        "open": "15:00",
+        "close": "23:00"
+      },
+      {
+        "day": "saturday",
+        "open": "12:00",
+        "close": "23:00"
+      },
+      {
+        "day": "sunday",
+        "open": "12:00",
+        "close": "23:00"
+      },
+      {
+        "day": "holiday",
+        "open": "12:00",
+        "close": "23:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "15:00",
+        "close": "23:00"
+      }
+    ],
+    "holidays": [
+      "不定休のため公式SNSでご確認ください。"
+    ],
+    "sns": {
+      "x": "https://x.com/idol2_8sapporo",
+      "instagram": "https://www.instagram.com/idol2_8sapporo/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%81%82%E3%81%84%E3%81%A9%E3%82%8B%E3%81%8B%E3%81%B5%E3%81%87+2%E3%81%AD%E3%82%938%E3%81%8F%E3%81%BF%E6%9C%AD%E5%B9%8C%E6%A0%A1/@43.0561425,141.3483819,17z/data=!3m1!4b1!4m6!3m5!1s0x5f0b290048d68c73:0xc1c0a1f85e3c4db0!8m2!3d43.0561425!4d141.3509568!16s%2Fg%2F11y6rtzr3d?entry=ttu"
+  },
+  {
+    "id": "concafe:36989",
+    "name": "雪姫 Snow Princess",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西2丁目2 サイバーシティビル4F",
+    "lat": 43.0544105,
+    "lng": 141.3559874,
+    "tags": [
+      "お姫様"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36989",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "nearestStations": [
+      "札幌市営地下鉄東豊線/豊水すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "thursday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "friday",
+        "open": "17:00",
+        "close": "01:00"
+      },
+      {
+        "day": "saturday",
+        "open": "17:00",
+        "close": "01:00"
+      },
+      {
+        "day": "sunday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "holiday",
+        "open": "17:00",
+        "close": "23:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "17:00",
+        "close": "23:00"
+      }
+    ],
+    "holidays": [
+      "不定休のため、公式SNSにてご確認ください。"
+    ],
+    "sns": {
+      "x": "https://x.com/___snowprincess",
+      "web": "https://snowprinces.thebase.in/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%97%E3%83%88%E3%82%AB%E3%83%95%E3%82%A7+%E9%9B%AA%E5%A7%AB+SnowPrincess+%E3%82%B9%E3%83%8E%E3%83%97%E3%83%AA/@43.0551278,141.3530367,17.63z/data=!3m1!5s0x5f0b2986bd5cd77f:0xbfb22cb4077f8a9f!4m6!3m5!1s0x5f0b29f5d10df3fb:0x1b59631bddf8ae80!8m2!3d43.0545649!4d141.355975!16s%2Fg%2F11r0f04jc8?entry=ttu"
+  },
+  {
+    "id": "concafe:36994",
+    "name": "ラビッツプラネット",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目1-1 第3グリーンビル3F",
+    "lat": 43.0554178,
+    "lng": 141.3544573,
+    "tags": [
+      "うさぎ",
+      "メイド",
+      "異世界"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36994",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0804",
+    "phone": "011-522-7580",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "17:00",
+        "close": "22:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "17:00",
+        "close": "22:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "17:00",
+        "close": "22:00"
+      },
+      {
+        "day": "thursday",
+        "open": "17:00",
+        "close": "22:00"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "02:00"
+      },
+      {
+        "day": "saturday",
+        "open": "18:00",
+        "close": "02:00"
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": "17:00",
+        "close": "22:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "17:00",
+        "close": "22:00"
+      }
+    ],
+    "holidays": [
+      "日曜日"
+    ],
+    "sns": {
+      "x": "https://x.com/rabbitsplanet",
+      "instagram": "https://www.instagram.com/rabbitsplanet_official/",
+      "web": "https://rabipura.com/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%83%A9%E3%83%93%E3%83%83%E3%83%84%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88/@43.0554783,141.3519209,17z/data=!3m2!4b1!5s0x5f0b29843c3329f7:0x3115c7b219d8daa5!4m6!3m5!1s0x5f0b291dee08e121:0x99873de70c220d63!8m2!3d43.0554783!4d141.3544958!16s%2Fg%2F11l268360c?entry=ttu"
+  },
+  {
+    "id": "concafe:36996",
+    "name": "Candy Doll -Stylish Girls Bar-",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西4丁目9-3 プリンス5.4ビル2F",
+    "lat": 43.0543997,
+    "lng": 141.3522047,
+    "tags": [
+      "JK",
+      "アメリカン"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36996",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "phone": "011-530-2330",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "17:00",
+        "close": "03:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "17:00",
+        "close": "03:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "17:00",
+        "close": "03:00"
+      },
+      {
+        "day": "thursday",
+        "open": "17:00",
+        "close": "03:00"
+      },
+      {
+        "day": "friday",
+        "open": "17:00",
+        "close": "04:00"
+      },
+      {
+        "day": "saturday",
+        "open": "17:00",
+        "close": "04:00"
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": "17:00",
+        "close": "03:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "17:00",
+        "close": "04:00"
+      }
+    ],
+    "holidays": [
+      "日曜日"
+    ],
+    "sns": {
+      "instagram": "https://www.instagram.com/candy_doll_susukino/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%90%E3%83%BCCandy+doll%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9+%E6%9C%AD%E5%B9%8C+%E3%81%99%E3%81%99%E3%81%8D%E3%81%AE/@43.0544014,141.3501892,17z/data=!3m2!4b1!5s0x5f0b2985d209efa7:0xfeed9c1999a53a75!4m6!3m5!1s0x5f0b29afc15fd42b:0x84f5776889e2ceb0!8m2!3d43.0544014!4d141.3527641!16s%2Fg%2F11tmnwt782?entry=ttu"
+  },
+  {
+    "id": "concafe:36997",
+    "name": "ZeRoPhIlIA - ゼロフィリア -",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西5丁目19 LC6番館4F",
+    "lat": 43.0542491,
+    "lng": 141.3510107,
+    "tags": [
+      "地雷系",
+      "清楚"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36997",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "phone": "080-6089-6805",
+    "nearestStations": [
+      "札幌市電山鼻線/資生館小学校前駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "21:00",
+        "close": "05:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "21:00",
+        "close": "05:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "21:00",
+        "close": "05:00"
+      },
+      {
+        "day": "thursday",
+        "open": "21:00",
+        "close": "05:00"
+      },
+      {
+        "day": "friday",
+        "open": "21:00",
+        "close": "05:00"
+      },
+      {
+        "day": "saturday",
+        "open": "21:00",
+        "close": "05:00"
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": "21:00",
+        "close": "05:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "21:00",
+        "close": "05:00"
+      }
+    ],
+    "holidays": [
+      "日曜日、年末年始"
+    ],
+    "sns": {
+      "x": "https://x.com/ZeRoPhIlIA_0",
+      "instagram": "https://www.instagram.com/zerophilia_official/",
+      "tiktok": "https://www.tiktok.com/@zerophilia_official",
+      "web": "https://www.zerophilia.jp/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/II+type+Hoodie+Girl's+BAR+ZeRoPhIlIA+-+%E3%82%BC%E3%83%AD%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A2+-/@43.0542491,141.3484358,17z/data=!3m2!4b1!5s0x5f0b2985ebd234b1:0x878d04cc5cb4185a!4m6!3m5!1s0x5f0b293bc2549a6b:0xf1be39442a2e7932!8m2!3d43.0542491!4d141.3510107!16s%2Fg%2F11k9fsjs67?entry=ttu"
+  },
+  {
+    "id": "concafe:36998",
+    "name": "KING STAR",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西3丁目 五条ビル1F",
+    "lat": 43.0546012,
+    "lng": 141.3538836,
+    "tags": [
+      "スポーツ"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36998",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "phone": "011-596-0595",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "18:00",
+        "close": "03:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "18:00",
+        "close": "03:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "18:00",
+        "close": "03:00"
+      },
+      {
+        "day": "thursday",
+        "open": "18:00",
+        "close": "03:00"
+      },
+      {
+        "day": "friday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "saturday",
+        "open": "18:00",
+        "close": "04:00"
+      },
+      {
+        "day": "sunday",
+        "open": "18:00",
+        "close": "03:00"
+      },
+      {
+        "day": "holiday",
+        "open": "18:00",
+        "close": "03:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "18:00",
+        "close": "03:00"
+      }
+    ],
+    "sns": {
+      "x": "https://x.com/kingstarsapporo",
+      "instagram": "https://www.instagram.com/sportsbar_kingstar_official/",
+      "tiktok": "https://www.tiktok.com/@king_star2015",
+      "web": "https://king-star.jp/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%83%90%E3%83%BC+%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%BF%E3%83%BC/@43.0546012,141.3513087,16z/data=!3m2!4b1!5s0x5f0b298429360623:0x1d227c6f06f7937f!4m6!3m5!1s0x5f0b29869d52b8e9:0x1faced1213cfa633!8m2!3d43.0546012!4d141.3538836!16s%2Fg%2F11bx2l9wds?entry=ttu"
+  },
+  {
+    "id": "concafe:36999",
+    "name": "LOUNGE BAR hanako",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南4条西3丁目1-2 N-PLACEビル9F",
+    "lat": 43.0552146,
+    "lng": 141.3547942,
+    "tags": [
+      "パステル"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/36999",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0804",
+    "phone": "011-530-2551",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "tuesday",
+        "open": "20:00",
+        "close": "04:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "20:00",
+        "close": "04:00"
+      },
+      {
+        "day": "thursday",
+        "open": "20:00",
+        "close": "04:00"
+      },
+      {
+        "day": "friday",
+        "open": "20:00",
+        "close": "04:00"
+      },
+      {
+        "day": "saturday",
+        "open": "20:00",
+        "close": "04:00"
+      },
+      {
+        "day": "sunday",
+        "open": "20:00",
+        "close": "04:00"
+      },
+      {
+        "day": "holiday",
+        "open": "20:00",
+        "close": "04:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "20:00",
+        "close": "04:00"
+      }
+    ],
+    "holidays": [
+      "月曜日"
+    ],
+    "sns": {
+      "web": "https://www.girls-collection.jp/shop/hanako/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%90%E3%83%BC%E8%8A%B1%E5%AD%90%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9+%E6%9C%AD%E5%B9%8C+%E3%81%99%E3%81%99%E3%81%8D%E3%81%AE/@43.0551706,141.3520835,17z/data=!3m2!4b1!5s0x5f0b298422a36a0b:0xb83b2da89a06dd6f!4m6!3m5!1s0x5f0b29e90cd1fbeb:0x8cbb64f83ab72ba5!8m2!3d43.0551706!4d141.3546584!16s%2Fg%2F11h20f4nng?entry=ttu"
+  },
+  {
+    "id": "concafe:37002",
+    "name": "Girls Bar SMILE",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西4丁目5-2 クリスタルビル1F",
+    "lat": 43.0538411,
+    "lng": 141.3525613,
+    "tags": [
+      "レトロ",
+      "アメリカン"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/37002",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "phone": "011-205-0695",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "19:30",
+        "close": "03:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "19:30",
+        "close": "03:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "19:30",
+        "close": "03:00"
+      },
+      {
+        "day": "thursday",
+        "open": "19:30",
+        "close": "03:00"
+      },
+      {
+        "day": "friday",
+        "open": "19:30",
+        "close": "04:00"
+      },
+      {
+        "day": "saturday",
+        "open": "19:30",
+        "close": "04:00"
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": "19:30",
+        "close": "03:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "19:30",
+        "close": "04:00"
+      }
+    ],
+    "holidays": [
+      "日曜日"
+    ],
+    "sns": {
+      "instagram": "https://www.instagram.com/girlsbar__smile/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%90%E3%83%BCSMILE+%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E6%9C%AD%E5%B9%8C%E3%81%99%E3%81%99%E3%81%8D%E3%81%AE/@43.0538411,141.3499864,17z/data=!3m2!4b1!5s0x5f0b2985df5b67ab:0xc6323e727cd26ecc!4m6!3m5!1s0x5f0b29bc84a29e3b:0x74030f00c3382797!8m2!3d43.0538411!4d141.3525613!16s%2Fg%2F11jxf6c5gg?entry=ttu"
+  },
+  {
+    "id": "concafe:37009",
+    "name": "おしゃれ泥棒",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市北区麻生町5丁目7-8 麻生銀座会館1F",
+    "lat": 43.111051,
+    "lng": 141.3374358,
+    "tags": [],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/37009",
+    "updatedAt": 1761094631,
+    "postalCode": "001-0045",
+    "phone": "011-299-1235",
+    "nearestStations": [
+      "札幌市営地下鉄南北線/麻生駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "19:00",
+        "close": "02:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "19:00",
+        "close": "02:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "19:00",
+        "close": "02:00"
+      },
+      {
+        "day": "thursday",
+        "open": "19:00",
+        "close": "02:00"
+      },
+      {
+        "day": "friday",
+        "open": "19:00",
+        "close": "04:00"
+      },
+      {
+        "day": "saturday",
+        "open": "19:00",
+        "close": "04:00"
+      },
+      {
+        "day": "sunday",
+        "open": "19:00",
+        "close": "02:00"
+      },
+      {
+        "day": "holiday",
+        "open": "19:00",
+        "close": "02:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "19:00",
+        "close": "02:00"
+      }
+    ],
+    "sns": {
+      "instagram": "https://www.instagram.com/oshare.thief/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E6%B3%A5%E6%A3%92/@43.1110338,141.33487,17z/data=!3m2!4b1!5s0x5f0b28b0b832a633:0x28604e49e4cd0813!4m6!3m5!1s0x5f0b29c475f56f37:0x84ef39dd88b77b31!8m2!3d43.1110338!4d141.3374449!16s%2Fg%2F11ftcmt75n?entry=ttu"
+  },
+  {
+    "id": "concafe:37036",
+    "name": "夜しなもの",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西3丁目8-8 N・グランデビルB1F",
+    "lat": 43.0547818,
+    "lng": 141.3543874,
+    "tags": [
+      "アメリカン"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/37036",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "phone": "011-211-5022",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "21:00",
+        "close": null
+      },
+      {
+        "day": "tuesday",
+        "open": "21:00",
+        "close": null
+      },
+      {
+        "day": "wednesday",
+        "open": "21:00",
+        "close": null
+      },
+      {
+        "day": "thursday",
+        "open": "21:00",
+        "close": null
+      },
+      {
+        "day": "friday",
+        "open": "21:00",
+        "close": null
+      },
+      {
+        "day": "saturday",
+        "open": "21:00",
+        "close": null
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "pre_holiday",
+        "open": "21:00",
+        "close": null
+      }
+    ],
+    "holidays": [
+      "日曜日・祝日",
+      "詳細な営業時間は店舗にお問い合わせください。"
+    ],
+    "sns": {
+      "x": "https://x.com/yoshinamono011/",
+      "instagram": "https://www.instagram.com/yoshina.mono/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/N.%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%83%93%E3%83%AB/@43.0547753,141.3518682,17z/data=!4m10!1m2!2m1!1z5pyt5bmM5biC5Lit5aSu5Yy65Y2XNeadoeilvzPkuIHnm644IE7jgrDjg6njg7Pjg4fjg5Pjg6s!3m6!1s0x5f0b298423e55aa1:0x68c10588fa64844b!8m2!3d43.0547753!4d141.3544431!15sCjjmnK3luYzluILkuK3lpK7ljLrljZc15p2h6KW_M-S4geebrjggTuOCsOODqeODs-ODh-ODk-ODq1pGIkTmnK3luYwg5biCIOS4reWkriDljLog5Y2XIDUg5p2hIOilvyAzIOS4geebriA4IG4g44Kw44Op44Oz44OHIOODk-ODq5IBCnJlc3RhdXJhbnTgAQA!16s%2Fg%2F11clgc0wtv?entry=ttu"
+  },
+  {
+    "id": "concafe:37037",
+    "name": "Girls Bar CHARMAN",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南6条西3丁目6-11 第1すすきのビル5F",
+    "lat": 43.0535494,
+    "lng": 141.3543609,
+    "tags": [],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/37037",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0806",
+    "phone": "011-600-1675",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "00:00",
+        "close": "06:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "00:00",
+        "close": "06:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "00:00",
+        "close": "06:00"
+      },
+      {
+        "day": "thursday",
+        "open": "00:00",
+        "close": "06:00"
+      },
+      {
+        "day": "friday",
+        "open": "00:00",
+        "close": "06:00"
+      },
+      {
+        "day": "saturday",
+        "open": "00:00",
+        "close": "06:00"
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": "00:00",
+        "close": "06:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "00:00",
+        "close": "06:00"
+      }
+    ],
+    "holidays": [
+      "日曜日"
+    ],
+    "googleMapUrl": "https://www.google.co.jp/maps/place/Girls+Bar+CHARMAN.%EF%BC%88%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%90%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%9E%E3%83%B3%EF%BC%89/@43.0535317,141.3518615,17z/data=!3m2!4b1!5s0x5f0b2986615ab9d7:0x865542893bd1c512!4m6!3m5!1s0x5f0b29003cea9171:0x69f68382d80f74f8!8m2!3d43.0535317!4d141.3544364!16s%2Fg%2F11vq6ftn36?entry=ttu"
+  },
+  {
+    "id": "concafe:37039",
+    "name": "Girls Bar COYOTE",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南6条西4丁目5-33 G4ビル7F",
+    "lat": 43.053577,
+    "lng": 141.3535613,
+    "tags": [],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/37039",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0806",
+    "phone": "011-206-0072",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "21:00",
+        "close": "05:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "21:00",
+        "close": "05:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "21:00",
+        "close": "05:00"
+      },
+      {
+        "day": "thursday",
+        "open": "21:00",
+        "close": "05:00"
+      },
+      {
+        "day": "friday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "saturday",
+        "open": "21:00",
+        "close": "06:00"
+      },
+      {
+        "day": "sunday",
+        "open": "21:00",
+        "close": "05:00"
+      },
+      {
+        "day": "holiday",
+        "open": "21:00",
+        "close": "05:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "21:00",
+        "close": "05:00"
+      }
+    ],
+    "sns": {
+      "instagram": "https://www.instagram.com/girlsbar_coyote/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%81%99%E3%81%99%E3%81%8D%E3%81%AE+%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%90%E3%83%BC+COYOTE/@43.053577,141.3518974,17z/data=!3m2!4b1!5s0x5f0b29866fae3763:0x88cfb33e49edefa7!4m6!3m5!1s0x5f0b2986113a8ab7:0x3970a8e2a96f180a!8m2!3d43.053577!4d141.3535613!16s%2Fg%2F1hf1xvhsr?entry=ttu"
+  },
+  {
+    "id": "concafe:37040",
+    "name": "Public Theatre フェニックス",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西2丁目 オークラビル1F",
+    "lat": 43.0543857,
+    "lng": 141.3555888,
+    "tags": [],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/37040",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "phone": "011-596-9966",
+    "nearestStations": [
+      "札幌市営地下鉄東豊線/豊水すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "19:00",
+        "close": "01:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "19:00",
+        "close": "01:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "19:00",
+        "close": "01:00"
+      },
+      {
+        "day": "thursday",
+        "open": "19:00",
+        "close": "01:00"
+      },
+      {
+        "day": "friday",
+        "open": "19:00",
+        "close": "01:00"
+      },
+      {
+        "day": "saturday",
+        "open": "19:00",
+        "close": "01:00"
+      },
+      {
+        "day": "sunday",
+        "open": "19:00",
+        "close": "01:00"
+      },
+      {
+        "day": "holiday",
+        "open": "19:00",
+        "close": "01:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "19:00",
+        "close": "01:00"
+      }
+    ],
+    "sns": {
+      "instagram": "https://www.instagram.com/phoenixsusukino/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/PUBLIC+THEATER+%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9/@43.0545045,141.3528725,16z/data=!3m2!4b1!5s0x5f0b298699b830d1:0x947c1114d6523989!4m6!3m5!1s0x5f0b298699cf3e51:0xd3b4a1f0e65e379c!8m2!3d43.0545045!4d141.3554474!16s%2Fg%2F11c440gwpw?entry=ttu"
+  },
+  {
+    "id": "concafe:37042",
+    "name": "【ガルバ】KING&QUEEN",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西3丁目 N・グランデビル1F",
+    "lat": 43.0547818,
+    "lng": 141.3543874,
+    "tags": [],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/37042",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "phone": "011-530-0505",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "19:00",
+        "close": "03:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "19:00",
+        "close": "03:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "19:00",
+        "close": "03:00"
+      },
+      {
+        "day": "thursday",
+        "open": "19:00",
+        "close": "03:00"
+      },
+      {
+        "day": "friday",
+        "open": "19:00",
+        "close": "04:00"
+      },
+      {
+        "day": "saturday",
+        "open": "19:00",
+        "close": "04:00"
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": "19:00",
+        "close": "03:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "19:00",
+        "close": "03:00"
+      }
+    ],
+    "holidays": [
+      "日曜日"
+    ],
+    "sns": {
+      "instagram": "https://www.instagram.com/kingandqueensapporo/"
+    },
+    "googleMapUrl": "https://www.google.co.jp/maps/place/%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%90%E3%83%BC+%E3%82%AD%E3%83%B3%E3%82%B0+%26+%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3+%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9+%E6%9C%AD%E5%B9%8C+%E3%81%99%E3%81%99%E3%81%8D%E3%81%AE/@43.0546541,141.3519562,17z/data=!3m2!4b1!5s0x5f0b29842810b377:0xdfd156c73caacb96!4m6!3m5!1s0x5f0b292ba34303c9:0xc80b917f174824b2!8m2!3d43.0546541!4d141.3545311!16s%2Fg%2F11kn8qbl6g?entry=ttu"
+  },
+  {
+    "id": "concafe:37044",
+    "name": "ONZE BAR SAPPORO",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南5条西3丁目8 N・グランデビル1F",
+    "lat": 43.0547818,
+    "lng": 141.3543874,
+    "tags": [
+      "バニー"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/37044",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0805",
+    "phone": "011-522-5411",
+    "nearestStations": [
+      "札幌市営地下鉄南北線・札幌市電/すすきの駅"
+    ],
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "19:00",
+        "close": "04:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "19:00",
+        "close": "04:00"
+      },
+      {
+        "day": "wednesday",
+        "open": "19:00",
+        "close": "04:00"
+      },
+      {
+        "day": "thursday",
+        "open": "19:00",
+        "close": "04:00"
+      },
+      {
+        "day": "friday",
+        "open": "19:00",
+        "close": "05:00"
+      },
+      {
+        "day": "saturday",
+        "open": "19:00",
+        "close": "05:00"
+      },
+      {
+        "day": "sunday",
+        "open": "19:00",
+        "close": "00:00"
+      },
+      {
+        "day": "holiday",
+        "open": "19:00",
+        "close": "04:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "19:00",
+        "close": "04:00"
+      }
+    ],
+    "holidays": [
+      "不定休のため店舗にお問い合わせください。"
+    ],
+    "googleMapUrl": "https://www.google.co.jp/maps/place/ONZE+BAR+11(%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%90%E3%83%BC+%E3%82%B5%E3%83%83%E3%83%9D%E3%83%AD)/@43.0546392,141.351878,17z/data=!3m2!4b1!5s0x5f0b29842810b377:0xdfd156c73caacb96!4m6!3m5!1s0x5f0b298426900001:0x196f76807e722937!8m2!3d43.0546392!4d141.3544529!16s%2Fg%2F11bzq394lf?entry=ttu"
+  },
+  {
+    "id": "concafe:37767",
+    "name": "ここひめカフェ",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市西区琴似１条３丁目３−７ ＴＭ-２３ビル ３Ｆ",
+    "lat": 43.0772394,
+    "lng": 141.3048985,
+    "tags": [
+      "メイド"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/37767",
+    "updatedAt": 1761094631,
+    "postalCode": "063-0811",
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": "15:00",
+        "close": "21:00"
+      },
+      {
+        "day": "tuesday",
+        "open": "15:00",
+        "close": "21:00"
+      },
+      {
+        "day": "wednesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "thursday",
+        "open": "15:00",
+        "close": "21:00"
+      },
+      {
+        "day": "friday",
+        "open": "15:00",
+        "close": "21:00"
+      },
+      {
+        "day": "saturday",
+        "open": "15:00",
+        "close": "21:00"
+      },
+      {
+        "day": "sunday",
+        "open": "15:00",
+        "close": "21:00"
+      },
+      {
+        "day": "holiday",
+        "open": "15:00",
+        "close": "21:00"
+      },
+      {
+        "day": "pre_holiday",
+        "open": "15:00",
+        "close": "21:00"
+      }
+    ],
+    "holidays": [
+      "【定休日】毎週水曜日"
+    ],
+    "sns": {
+      "x": "https://x.com/cocohimecafe",
+      "instagram": "https://www.instagram.com/cocohimecafe/",
+      "web": "https://spicastar.info/cocohime-cafe/"
+    }
+  },
+  {
+    "id": "concafe:37775",
+    "name": "charmy Moon〜Queen of Pirates〜",
+    "area": "札幌・すすきの",
+    "address": "北海道札幌市中央区南6条西３丁目1",
+    "lat": 43.0530257,
+    "lng": 141.3542095,
+    "tags": [
+      "お姫様",
+      "高級感"
+    ],
+    "sourceUrl": "https://con-cafe.jp/list/area01/pre01/sub011/37775",
+    "updatedAt": 1761094631,
+    "postalCode": "064-0806",
+    "phone": "011-206-0551",
+    "businessHours": [
+      {
+        "day": "monday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "tuesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "wednesday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "thursday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "friday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "saturday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "sunday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "holiday",
+        "open": null,
+        "close": null
+      },
+      {
+        "day": "pre_holiday",
+        "open": null,
+        "close": null
+      }
+    ],
+    "holidays": [
+      "毎週水曜日"
+    ],
+    "sns": {
+      "instagram": "https://www.instagram.com/chamsusukino_?",
+      "web": "http://charmymoon.net"
+    }
+  }
+]

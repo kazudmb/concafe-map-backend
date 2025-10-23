@@ -1,6 +1,10 @@
 from typing import Any, Dict, List
 from bs4 import BeautifulSoup
-from ..util import RobotsGuard
+
+try:  # pragma: no cover - import fallback for script execution
+    from ..util import RobotsGuard
+except ImportError:  # pragma: no cover
+    from util import RobotsGuard
 
 
 class ExampleProvider:
@@ -39,4 +43,3 @@ class ExampleProvider:
                 "sourceUrl": self.START_URL,
             })
         return items
-
